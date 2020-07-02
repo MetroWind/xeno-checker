@@ -1,0 +1,12 @@
+= XenoChecker
+MetroWind
+
+A check list for Xenoblade Chronicles Definitive Edition.
+
+Currently there is a quest checklist and a unique monster checklist.
+Checked items are saved in your browser’s local storage. Optimized for
+mobile browsers. (What I’m trying to say is it’s not optimized for
+desktop...)
+
+The Python script is to scrap the Xenoblade wiki and generate the two
+XMLs in the web directory.
