@@ -1,0 +1,139 @@
+:root
+{
+    --color-bg: #000;
+    --color-fg: #f1f2f6;
+    --color-alt-fg: #747d8c;
+    --color-deco: #1e90ff;
+    --color-popup-bg: #2f3542;
+    --main-list-width: 400px;
+    --detail-width: 300px;
+    --total-width: calc(var(--main-list-width) + var(--detail-width));
+    --popup-margin: 5px;
+    --popup-border-radius: 30px;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+td
+{
+    padding: 0px;
+}
+
+a
+{
+    color: var(--color-deco);
+    text-decoration: none;
+}
+
+a:hover
+{
+    background-color: var(--color-deco);
+    color: var(--color-bg);
+}
+
+body
+{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    background-color: var(--color-bg);
+    color: var(--color-fg);
+    font-size: 18px;
+}
+
+#body
+{
+    max-width: var(--main-list-width);
+}
+
+svg.Checker > circle.Border
+{
+    stroke: var(--color-deco);
+    stroke-width: 2px;
+}
+
+svg.Checker > circle.CheckMark
+{
+    fill: var(--color-deco);
+}
+
+.TodoEntry
+{
+    display: flex;
+    align-items: center;
+    height: 2rem;
+    padding: 0px 11px 0px 11px;
+}
+
+.TodoEntry > span.TodoText
+{
+    flex-grow: 1;
+    margin: 0px 6px 0px 6px;
+}
+
+#Detail td.PropertyKey
+{
+    padding-right: 1em;
+    color: var(--color-alt-fg);
+}
+
+table#QuestProperties td
+{
+    padding: 3px 0px 3px 0px;
+}
+
+table#QuestProperties ul
+{
+    margin: 0px;
+    list-style: square;
+    padding-left: 1em;
+}
+
+@media screen and (min-width: 700px)
+{
+    #Detail
+    {
+        width: var(--detail-width);
+        position: fixed;
+        top: 0px;
+        left: var(--main-list-width);
+    }
+
+    #Detail > #BtnCloseDetailWrapper
+    {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 700px)
+{
+    #Detail
+    {
+        box-sizing: border-box;
+        position: fixed;
+        bottom: 0px;
+        width: calc(100% - 2*var(--popup-margin));
+        left: 0px;
+        background-color: var(--color-popup-bg);
+        /* backdrop-filter: blur(10%); */
+        margin: var(--popup-margin);
+        padding: calc(0.5 * var(--popup-border-radius));
+        border-radius: var(--popup-border-radius);
+    }
+
+    #Detail h3
+    {
+        margin: 0 0 1em 0;
+        text-align: center;
+    }
+
+    #BtnCloseDetailWrapper
+    {
+        height: 1em;
+        width: 1em;
+        position: absolute;
+        top: calc(0.5 * var(--popup-border-radius));
+        right: calc(0.5 * var(--popup-border-radius));
+    }
+}

@@ -1,0 +1,5235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quests>
+  <quest>
+    <quest-id location="Colony 9">Biscuits for a Grandson</quest-id>
+    <client>Marcia</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Biscuits_for_a_Grandson</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Challenge 1</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_1_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Challenge 2</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_2_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Challenge 3</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_3_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Collection Quest 1</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Collection Quest 2</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Collection Quest 3</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_3_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Collection Quest 4</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_4_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Delivering Food</quest-id>
+    <client>Story Quest</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Delivering_Food</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Education-Minded Suzanna</quest-id>
+    <client>Suzanna</client>
+    <blockers>
+      <blocker type="RegisterNPC">
+        <element>Moritz</element>
+        <element>Colony 9</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Education-Minded_Suzanna</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Lonely Niranira</quest-id>
+    <client>Niranira</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Lonely_Niranira</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Material Quest 1</quest-id>
+    <client>A Nopon Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_1_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Material Quest 2</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_2_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Material Quest 3</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_3_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Material Quest 4</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_4_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 1 - Part 1</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_1_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 1 - Part 2</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_2_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 1 - Part 3</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_3_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 2 - Part 1</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_1_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 2 - Part 2</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_2_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 2 - Part 3</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_3_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 3 - Part 1</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_1_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 3 - Part 2</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_2_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 3 - Part 3</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_3_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 3 - Part 4</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_4_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 4 - Part 1</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_1_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 4 - Part 2</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_2_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Monster Quest 4 - Part 3</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_3_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Search Quest 1</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_1_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Search Quest 2</quest-id>
+    <client>A Nopon Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_2_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Search Quest 3</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_3_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Search Quest 4</quest-id>
+    <client>A Homs Resident</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_4_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Broken Watch</quest-id>
+    <client>Désirée</client>
+    <blockers>
+      <blocker type="Unknown">Shulk must be the active party leader</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Broken_Watch</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Key to a Long Life</quest-id>
+    <client>Dionysis</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/The_Key_to_a_Long_Life</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Young Captain's Request</quest-id>
+    <client>Emmy Leater</client>
+    <blockers>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>1.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Young_Captain%27s_Request</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Curry Conundrum</quest-id>
+    <client>Giorgio</client>
+    <blockers>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Curry_Conundrum</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Rocco's Heartful Request</quest-id>
+    <client>Rocco</client>
+    <blockers>
+      <blocker type="RegisterNPC">
+        <element>Sonia</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Rocco%27s_Heartful_Request</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Dean's Shady Request</quest-id>
+    <client>Dean</client>
+    <blockers>
+      <blocker type="RegisterNPC">
+        <element>Liliana</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Rocco's Heartful Request</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Dean%27s_Shady_Request</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Pride and Courage</quest-id>
+    <client>Lukas</client>
+    <blockers>
+      <blocker type="RegisterNPC">
+        <element>Moritz</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Lonely Niranira</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Pride_and_Courage</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Education-Crazy Suzanna</quest-id>
+    <client>Suzanna</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Education-Minded Suzanna</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Education-Crazy_Suzanna</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Liliana's Sincere Request</quest-id>
+    <client>Liliana</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Dean's Shady Request</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Liliana%27s_Sincere_Request</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Challenge 4</quest-id>
+    <client>A Nopon Resident</client>
+    <blockers>
+      <blocker type="Unknown">Reyn met at the Weapon Dev. Lab</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_4_(Colony_9)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">An Impoverished Critic</quest-id>
+    <client>Leopold</client>
+    <blockers>
+      <blocker type="RegisterNPC">
+        <element>Sylviane</element>
+        <element>Colony 9</element>
+      </blocker>
+      <blocker type="Unknown">after the Mechon raid</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/An_Impoverished_Critic</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Financial Planning</quest-id>
+    <client>King Squeeze</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">An Impoverished Critic</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Financial_Planning</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Flattened Flowers</quest-id>
+    <client>Françoise</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Flattened_Flowers</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Mementos of a Lost Son</quest-id>
+    <client>Cheryl</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mementos_of_a_Lost_Son</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Paola and Narine</quest-id>
+    <client>Narine</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="RegisterNPC">
+        <element>Paola</element>
+        <element>Colony 9</element>
+      </blocker>
+      <blocker type="Unknown">Shulk in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Paola_and_Narine</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Lost Pendant</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="Quest">
+        <quest-id location="Tephra Cave">Missing in Action</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Lost_Pendant</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Plan - Preparation</quest-id>
+    <client>Sesame</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Plan_-_Preparation</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Young Captain's Suffering</quest-id>
+    <client>Emmy Leater</client>
+    <blockers>
+      <blocker type="RegisterNPC">
+        <element>Raoul</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Young Captain's Request</quest-id>
+      </blocker>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Young_Captain%27s_Suffering</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Young Captain's Rise</quest-id>
+    <client>Emmy Leater</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Young Captain's Suffering</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Young_Captain%27s_Rise</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Overworked and Underpaid</quest-id>
+    <client>Giorgio</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Curry Conundrum</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Overworked_and_Underpaid</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Romantic Notions of a Boy</quest-id>
+    <client>Andreas</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Romantic Notions of a Girl</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Romantic_Notions_of_a_Boy</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Romantic Notions of a Girl</quest-id>
+    <client>Monica</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="RegisterNPC">
+        <element>Erik</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Romantic_Notions_of_a_Girl</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Plan - The Night Before</quest-id>
+    <client>Sesame</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">The Plan - Preparation</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Plan_-_The_Night_Before</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Plan - Execution</quest-id>
+    <client>Sesame</client>
+    <blockers>
+      <blocker type="AreaAccess">Tephra Cave</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">The Plan - The Night Before</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Plan_-_Execution</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Jackson's Awakening</quest-id>
+    <client>Jackson</client>
+    <blockers>
+      <blocker type="RegisterNPC">
+        <element>Dorothy</element>
+      </blocker>
+      <blocker type="Unknown">Sharla joined the party</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Jackson%27s_Awakening</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Out-of-Luck Giorgio</quest-id>
+    <client>Giorgio</client>
+    <blockers>
+      <blocker type="Unknown">After escorting Juju to the Refugee Camp</blocker>
+      <blocker type="Unknown">Sharla joined the party</blocker>
+      <blocker type="Unknown">Overworked and Underpaid route B completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Out-of-Luck_Giorgio</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Pestering Paola</quest-id>
+    <client>Giorgio</client>
+    <blockers>
+      <blocker type="Unknown">After escorting Juju to the Refugee Camp</blocker>
+      <blocker type="Unknown">Sharla joined the party</blocker>
+      <blocker type="Unknown">Overworked and Underpaid route A completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Pestering_Paola</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Jackson the Cook</quest-id>
+    <client>Jackson</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Jackson's Awakening</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.5</element>
+      </blocker>
+      <blocker type="Unknown">Sharla joined the party</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Jackson_the_Cook</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Jackson the Poet</quest-id>
+    <client>Jackson</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Jackson's Awakening</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.5</element>
+      </blocker>
+      <blocker type="Unknown">Sharla joined the party</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Jackson_the_Poet</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Mysterious Light</quest-id>
+    <client>Kenny Rohan</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 area reached</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Mysterious_Light</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Out Like a Light?</quest-id>
+    <client>Kenny Rohan</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 area reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Mysterious Light</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Out_Like_a_Light%3F</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Désirée's Future</quest-id>
+    <client>Désirée</client>
+    <blockers>
+      <blocker type="Unknown">Satorl Marsh reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Jackson's Awakening</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>4.5</element>
+      </blocker>
+      <blocker type="Unknown">Shulk in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/D%C3%A9sir%C3%A9e%27s_Future</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Betty's Gift</quest-id>
+    <client>Betty</client>
+    <blockers>
+      <blocker type="Unknown">Satorl Marsh reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Désirée's Future</quest-id>
+      </blocker>
+      <blocker type="Unknown">Betty mentioned Désirée's new career</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>5.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Betty%27s_Gift</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Désirée's Apology</quest-id>
+    <client>Désirée</client>
+    <blockers>
+      <blocker type="Unknown">Satorl Marsh reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Désirée's Future</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>5.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/D%C3%A9sir%C3%A9e%27s_Apology</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Gem Man's Invention</quest-id>
+    <client>Gem Man</client>
+    <blockers>
+      <blocker type="Unknown">Access to Colony 6 Reconstruction</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Gem_Man%27s_Invention</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Young Captain's Challenge</quest-id>
+    <client>Emmy Leater</client>
+    <blockers>
+      <blocker type="Unknown">Makna Forest reached</blocker>
+      <blocker type="RegisterNPC">
+        <element>Kantz</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Young Captain's Rise</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Young_Captain%27s_Challenge</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Old Soldier's Test</quest-id>
+    <client>Jan</client>
+    <blockers>
+      <blocker type="Unknown">Melia met in Makna Forest</blocker>
+      <blocker type="Unknown">Dionysis and Cheryl registered</blocker>
+      <blocker type="Unknown">Jan – Minnie affinity link (☆3)</blocker>
+      <blocker type="Unknown">"He's too old" told to Dionysis</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Old_Soldier%27s_Test</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Big Brother's Fight</quest-id>
+    <client>Zukazu</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">An Errand for the Heropon</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Biscuits for a Grandson</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Big_Brother%27s_Fight</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Little Brother's Fight</quest-id>
+    <client>Jiroque</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">An Errand for the Heropon</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Big Brother's Fight</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Little_Brother%27s_Fight</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Place to Come Home to</quest-id>
+    <client>Jiroque</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Big Brother's Fight</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Place_to_Come_Home_to</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Thawing Relations</quest-id>
+    <client>Zukazu</client>
+    <blockers>
+      <blocker type="Unknown">In the course to the Makna Forest's final event</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Little Brother's Fight</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Thawing_Relations</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Token of Friendship</quest-id>
+    <client>Shulk</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">Shulk in the lead inspecting the area when a prompt appears</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Token_of_Friendship</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Young Captain's Revival</quest-id>
+    <client>Miller</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Young Captain's Challenge</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>4.0</element>
+      </blocker>
+      <blocker type="Unknown">Shulk in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Young_Captain%27s_Revival</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">A Young Captain's Trust</quest-id>
+    <client>Miller</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Young Captain's Challenge</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>4.0</element>
+      </blocker>
+      <blocker type="Unknown">Shulk in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Young_Captain%27s_Trust</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">The Elite Captain's Anguish</quest-id>
+    <client>Raoul</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">A Young Captain's Trust</quest-id>
+      </blocker>
+      <blocker type="Unknown">or Revival</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>4.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Elite_Captain%27s_Anguish</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Getting to Know Dorothy</quest-id>
+    <client>Dorothy</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">The Elite Captain's Anguish</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Getting_to_Know_Dorothy</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Getting to Know Minnie</quest-id>
+    <client>Minnie</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">The Elite Captain's Anguish</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Getting_to_Know_Minnie</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Birthday Shoes</quest-id>
+    <client>Kantz</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Education-Crazy Suzanna</quest-id>
+      </blocker>
+      <blocker type="MutualExclusiveQuests">
+        <quest-id location="Colony 9">A Young Captain's Trust</quest-id>
+        <quest-id location="Colony 9">A Young Captain's Revival</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>4.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Birthday_Shoes</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 9">Friendship Tokens</quest-id>
+    <client>Moritz</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 9">Pride and Courage</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 9</element>
+        <element>4.25</element>
+      </blocker>
+      <blocker type="Unknown">Reyn in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Friendship_Tokens</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">Arachno Silk Fundraising</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers>
+      <blocker type="Unknown">After the Mechon attack in Colony 9</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Arachno_Silk_Fundraising</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">A Thank You</quest-id>
+    <client>A Defence Soldier</client>
+    <blockers>
+      <blocker type="Unknown">After the Mechon attack in Colony 9</blocker>
+      <blocker type="Quest">
+        <quest-id location="Tephra Cave">Arachno Silk Fundraising</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Thank_You</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">Collection Quest 1</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers>
+      <blocker type="Unknown">After the Mechon attack in Colony 9</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Tephra_Cave)</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">Collection Quest 2</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers>
+      <blocker type="Unknown">After the Mechon attack in Colony 9</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Tephra_Cave)</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">Material Quest 1</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers>
+      <blocker type="Unknown">After the Mechon attack in Colony 9</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_1_(Tephra_Cave)</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">Material Quest 2</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers>
+      <blocker type="Unknown">After the Mechon attack in Colony 9</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_2_(Tephra_Cave)</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">Missing in Action</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers>
+      <blocker type="Unknown">After the Mechon attack in Colony 9</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Missing_in_Action_(XC1)</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">Clearing Obstructions</quest-id>
+    <client>A Defence Force Soldier</client>
+    <blockers>
+      <blocker type="Unknown">Vilia Lake reached</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Clearing_Obstructions</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">The Book of Bafalgar</quest-id>
+    <client>Shura</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Book_of_Bafalgar</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">The Blood of Bafalgar</quest-id>
+    <client>Shura</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Tephra Cave">The Book of Bafalgar</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Blood_of_Bafalgar</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">The Path of Bafalgar</quest-id>
+    <client>Shura</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Tephra Cave">The Blood of Bafalgar</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Path_of_Bafalgar</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">The Coffin of Bafalgar</quest-id>
+    <client>Shura</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Tephra Cave">The Path of Bafalgar</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Coffin_of_Bafalgar</link>
+  </quest>
+  <quest>
+    <quest-id location="Tephra Cave">The Gratitude of Bafalgar</quest-id>
+    <client>Shura</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Tephra Cave">The Coffin of Bafalgar</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Gratitude_of_Bafalgar</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">A Thoughtful Idea</quest-id>
+    <client>Matryona</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Thoughtful_Idea</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">A Dash of Colour</quest-id>
+    <client>Ewan</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">A Thoughtful Idea</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Dash_of_Colour</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Imaginations Tempered</quest-id>
+    <client>Matryona</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">A Dash of Colour</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Imaginations_Tempered</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Spirits Raised</quest-id>
+    <client>Arda</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">Imaginations Tempered</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Spirits_Raised</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Being a Good Grandfather</quest-id>
+    <client>Satata</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="RegisterNPC">
+        <element>Nikita</element>
+        <element>Colony 6</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Being_a_Good_Grandfather</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Challenge 1 - Part 1</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_1_-_Part_1_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Challenge 1 - Part 2</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_1_-_Part_2_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Challenge 2 - Part 1</quest-id>
+    <client>A Nopon Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_2_-_Part_1_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Challenge 2 - Part 2</quest-id>
+    <client>A Nopon Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_2_-_Part_2_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Collection Quest 1</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Collection Quest 2</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Earnest's Fibs</quest-id>
+    <client>Earnest</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Earnest%27s_Fibs</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Emergency Treatment</quest-id>
+    <client>Olga</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="RegisterNPC">
+        <element>Gorman</element>
+        <element>Colony 6</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Emergency_Treatment</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Material Quest 1</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_1_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Material Quest 2</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_2_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Material Quest 3</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_3_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Material Quest 4</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_4_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Monster Quest 1 - Part 1</quest-id>
+    <client>A Homs Traveller</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_1_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Monster Quest 1 - Part 2</quest-id>
+    <client>A Homs Traveller</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_2_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Monster Quest 1 - Part 3</quest-id>
+    <client>A Homs Traveller</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_3_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Monster Quest 1 - Part 4</quest-id>
+    <client>A Homs Traveller</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_4_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Monster Quest 2</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Monster Quest 3 - Part 1</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_1_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Monster Quest 3 - Part 2</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_2_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Search Quest 1</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_1_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Search Quest 2</quest-id>
+    <client>A Homs Camp Resident</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_2_(Bionis%27_Leg)</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">The Lost Nopon</quest-id>
+    <client>Gerugu</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Lost_Nopon</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Thieving Monsters</quest-id>
+    <client>Gorman</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Thieving_Monsters</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Earnest's Mischief</quest-id>
+    <client>Earnest</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">Earnest's Fibs</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Earnest%27s_Mischief</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">The Greedy Monster</quest-id>
+    <client>Satata</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">Being a Good Grandfather</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Greedy_Monster</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Earnest's Solitude</quest-id>
+    <client>Earnest</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">Earnest's Mischief</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Earnest%27s_Solitude</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">With Much Gratitude</quest-id>
+    <client>Batubatu</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">The Lost Nopon</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/With_Much_Gratitude</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">With Even More Gratitude</quest-id>
+    <client>Gerugu</client>
+    <blockers>
+      <blocker type="AreaAccess">Bionis' Leg</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">With Much Gratitude</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/With_Even_More_Gratitude</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Save the Girl!</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="Unknown">Sharla joined the party</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Save_the_Girl!</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Legend of Mythical Empress</quest-id>
+    <client>Gerugu</client>
+    <blockers>
+      <blocker type="Unknown">Makna Forest reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">With Even More Gratitude</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">It Definitely Exist!</quest-id>
+      </blocker>
+      <blocker type="Unknown">Pachipa and Pipiki affinity link:</blocker>
+      <blocker type="Unknown">Colony 6 area ☆3½</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Legend_of_Mythical_Empress</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">A Flower for a Rose</quest-id>
+    <client>Dulland</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Securing Provisions</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Flower_for_a_Rose</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Battling Brutes</quest-id>
+    <client>Dulland</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Bionis' Leg">A Flower for a Rose</quest-id>
+      </blocker>
+      <blocker type="Unknown">Fiora in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Battling_Brutes</link>
+  </quest>
+  <quest>
+    <quest-id location="Bionis' Leg">Supplies for Satorl</quest-id>
+    <client>Elior</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Securing Provisions</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Supplies_for_Satorl</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Proof of Status</quest-id>
+    <client>Daza</client>
+    <blockers>
+      <blocker type="AreaAccess">Colony 6</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Proof_of_Status</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Safety First</quest-id>
+    <client>Daza</client>
+    <blockers>
+      <blocker type="AreaAccess">Colony 6</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Proof of Status</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Safety_First</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Secret Mission</quest-id>
+    <client>Daza</client>
+    <blockers>
+      <blocker type="AreaAccess">Colony 6</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Safety First</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Secret_Mission</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">The Road Home</quest-id>
+    <client>Otharon</client>
+    <blockers>
+      <blocker type="Unknown">Sororal Statues in Satorl Marsh reached</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Road_Home</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Chemist's Reopening</quest-id>
+    <client>Olga</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction triggered</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Chemist%27s_Reopening</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">For the Restoration</quest-id>
+    <client>Gorman</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction started</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/For_the_Restoration</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Making a New Path</quest-id>
+    <client>Gorman</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction started</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">For the Restoration</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Making_a_New_Path</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Satata's Younger Brother</quest-id>
+    <client>Satata</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction started</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Satata%27s_Younger_Brother</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">What is Love?!</quest-id>
+    <client>Ewan</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction started</blocker>
+      <blocker type="Unknown">Imaginations Tempered not completed</blocker>
+      <blocker type="RegisterNPC">
+        <element>Matryona</element>
+        <element>Colony 6</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/What_is_Love%3F!</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">What is Courage?!</quest-id>
+    <client>Ewan</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction started</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">What is Love?!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/What_is_Courage%3F!</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Selfish Girl's Mistake</quest-id>
+    <client>Anna</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction started</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Selfish_Girl%27s_Mistake</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Rest in Peace</quest-id>
+    <client>Satata</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction started</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Satata's Younger Brother</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Rest_in_Peace</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Matryona's Answer</quest-id>
+    <client>Matryona</client>
+    <blockers>
+      <blocker type="Unknown">Colony 6 Reconstruction started</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">What is Courage?!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Matryona%27s_Answer</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Gutsy Trader</quest-id>
+    <client>Werner</client>
+    <blockers>
+      <blocker type="Unknown">Makna Forest reached</blocker>
+      <blocker type="Unknown">Werner invited to Colony 6</blocker>
+      <blocker type="Unknown">Nature Lv2.</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Gutsy_Trader</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Defend Colony 6 - Mechon</quest-id>
+    <client>Colony 6 Residents</client>
+    <blockers>
+      <blocker type="Unknown">Makna Forest reached</blocker>
+      <blocker type="Unknown">Colony 6 Reconstruction 15%</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Mechon</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Cook-Off Counter Attack!</quest-id>
+    <client>Hoko</client>
+    <blockers>
+      <blocker type="Unknown">Hoko and Talonyth invited to Colony 6</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Cook-Off_Counter_Attack!</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Missing Lodger</quest-id>
+    <client>Ma'crish</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Unknown">Ma'crish invited to Colony 6</blocker>
+      <blocker type="Unknown">Housing and Special at level 2</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Missing_Lodger</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Cook-Off Comeback?</quest-id>
+    <client>Hoko</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Cook-Off Counter Attack!</quest-id>
+      </blocker>
+      <blocker type="Unknown">Pokapoka and Ma'crish invited to Colony 6</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Cook-Off_Comeback%3F</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Cook-Off Final Blow?!</quest-id>
+    <client>Talonyth</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Cook-Off Comeback?</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Cook-Off_Final_Blow%3F!</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Delectable Delicacy</quest-id>
+    <client>Pokapoka</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Unknown">Pokapoka invited to Colony 6</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Cook-Off Comeback?</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Delectable_Delicacy</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Looking for Freedom</quest-id>
+    <client>Nopo'rikh</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Missing Lodger</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Looking_for_Freedom</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Defend Colony 6 - Reptile</quest-id>
+    <client>Colony 6 Residents</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Defend Colony 6 - Mechon</quest-id>
+      </blocker>
+      <blocker type="Unknown">reconstruction at 35%</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Reptile</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Cursed Berryjammy</quest-id>
+    <client>Norara</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Unknown">Mefimefi and Berryjammy have been invited to Colony 6</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Cursed_Berryjammy</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Weak Berryjammy</quest-id>
+    <client>Norara</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="NPCInviteToC6">Perrine</blocker>
+      <blocker type="NPCInviteToC6">Berryjammy</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Weak_Berryjammy</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Obstinate Berryjammy</quest-id>
+    <client>Norara</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="MutualExclusiveQuests">
+        <quest-id location="Colony 6">Weak Berryjammy</quest-id>
+        <quest-id location="Colony 6">Cursed Berryjammy</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Obstinate_Berryjammy</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Tantalising Treat</quest-id>
+    <client>Pokapoka</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Cook-Off Final Blow?!</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">A Delectable Delicacy</quest-id>
+      </blocker>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Tantalising_Treat</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Cook-Off Showdown!</quest-id>
+    <client>Ma'crish</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Missing Lodger</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Cook-Off Final Blow?!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.5</element>
+      </blocker>
+      <blocker type="Unknown">Reyn in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Cook-Off_Showdown!</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Unstoppable Berryjammy</quest-id>
+    <client>Berryjammy</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Obstinate Berryjammy</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Chemist's Reopening</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Unstoppable_Berryjammy</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Miss Sweetness Showdown</quest-id>
+    <client>Berryjammy</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Unknown">Affinity between Ma'crish and Berryjammy says "Competing" ()</blocker>
+      <blocker type="Unknown">Unstoppable Berryjammy completed</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Cook-Off Showdown!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Miss_Sweetness_Showdown_(Berryjammy)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Miss Sweetness Showdown</quest-id>
+    <client>Ma'crish</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Unknown">Affinity between Ma'crish and Berryjammy says "Competing" ()</blocker>
+      <blocker type="Unknown">Unstoppable Berryjammy completed</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Cook-Off Showdown!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Miss_Sweetness_Showdown_(Ma%27crish)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">The Most Transparent Thing</quest-id>
+    <client>Miss Sweetness (Berryjammy or Ma'crish)</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Unknown">Miss Sweetness Showdown with Berryjammy or Miss Sweetness Showdown with Ma'crish quest accepted</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Most_Transparent_Thing</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Miss Sweetness' Gratitude</quest-id>
+    <client>Berryjammy</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Miss Sweetness Showdown</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>4.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Miss_Sweetness%27_Gratitude_(Berryjammy)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Miss Sweetness' Gratitude</quest-id>
+    <client>Ma'crish</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Miss Sweetness Showdown</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>4.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Miss_Sweetness%27_Gratitude_(Ma%27crish)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Final Sweet Favour</quest-id>
+    <client>Miss Sweetness (Berryjammy or Ma'crish)</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Unknown">Miss Sweetness' Gratitude with Berryjammy or Miss Sweetness' Gratitude with Ma'crish quest accepted</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Final_Sweet_Favour</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Odd Smoke - Investigation</quest-id>
+    <client>Arda</client>
+    <blockers>
+      <blocker type="Unknown">Miqol met in the Hidden Machina Village</blocker>
+      <blocker type="NPCInviteToC6">Jer'ell</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Odd_Smoke_-_Investigation</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">To Colony 6!</quest-id>
+    <client>Dulland</client>
+    <blockers>
+      <blocker type="Unknown">After Otharon has left for Alcamoth</blocker>
+      <blocker type="Unknown">The Road Home not completed</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/To_Colony_6!</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">In Pursuit of Love</quest-id>
+    <client>Rosemary</client>
+    <blockers>
+      <blocker type="Unknown">Miqol met in the Hidden Machina Village</blocker>
+      <blocker type="Unknown">Rosemary invited to Colony 6</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/In_Pursuit_of_Love</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Odd Smoke - Resolution</quest-id>
+    <client>Jer'ell</client>
+    <blockers>
+      <blocker type="Unknown">Miqol met in the Hidden Machina Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Odd Smoke - Investigation</quest-id>
+      </blocker>
+      <blocker type="Unknown">Perrine or Mefimefi invited to Colony 6</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Odd_Smoke_-_Resolution</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Nopon Determination</quest-id>
+    <client>Mefimefi</client>
+    <blockers>
+      <blocker type="Unknown">Miqol met in the Hidden Machina Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Odd Smoke - Resolution</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Nopon_Determination</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Defend Colony 6 - Elite</quest-id>
+    <client>Colony 6 Residents</client>
+    <blockers>
+      <blocker type="Unknown">Miqol met in the Hidden Machina Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Defend Colony 6 - Reptile</quest-id>
+      </blocker>
+      <blocker type="Unknown">reconstruction at 55%</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Elite</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Butler's Concerns</quest-id>
+    <client>Gowago</client>
+    <blockers>
+      <blocker type="Unknown">Central Factory reached</blocker>
+      <blocker type="Unknown">Gowago and Yura invited to Colony 6</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Butler%27s_Concerns</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Maid's Concerns</quest-id>
+    <client>Minana</client>
+    <blockers>
+      <blocker type="Unknown">Central Factory reached</blocker>
+      <blocker type="Unknown">Minana and Yura invited to Colony 6</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Maid%27s_Concerns</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Nic's Training</quest-id>
+    <client>Nopo'rikh</client>
+    <blockers>
+      <blocker type="Unknown">Central Factory reached</blocker>
+      <blocker type="NPCInviteToC6">Nic</blocker>
+      <blocker type="Unknown">Looking for Freedom.</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Nic%27s_Training</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Dream of a Poet</quest-id>
+    <client>Yura</client>
+    <blockers>
+      <blocker type="Unknown">Central Factory reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">In Pursuit of Love</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Dream_of_a_Poet</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">The Melody of Happiness</quest-id>
+    <client>Nic</client>
+    <blockers>
+      <blocker type="Unknown">Central Factory reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">In Pursuit of Love</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Melody_of_Happiness</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Family Secrets</quest-id>
+    <client>En Argentis</client>
+    <blockers>
+      <blocker type="NPCInviteToC6">Peppino</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Family_Secrets_(En_Argentis)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Betrothal Test</quest-id>
+    <client>Peppino</client>
+    <blockers>
+      <blocker type="Unknown">Family Secrets involving En Argentis completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>4.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Betrothal_Test_(En_Argentis)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Nic's Final Test</quest-id>
+    <client>Nopo'rikh</client>
+    <blockers>
+      <blocker type="Unknown">Central Factory reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Nic's Training</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>4.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Nic%27s_Final_Test</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Stopping the Elopement</quest-id>
+    <client>Don Argentis</client>
+    <blockers>
+      <blocker type="Unknown">Betrothal Test involving En Argentis completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>4.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Stopping_the_Elopement_(En_Argentis)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Melancholy Tyrea</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Melancholy_Tyrea</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Securing Provisions</quest-id>
+    <client>Dulland</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Securing_Provisions</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Delivering the Undeliverable</quest-id>
+    <client>Shilx</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="NPCInviteToC6">Berryjammy</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Delivering_the_Undeliverable</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Finding the Unfindable</quest-id>
+    <client>Shilx</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Delivering the Undeliverable</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Finding_the_Unfindable</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Lifespan of a Machina</quest-id>
+    <client>Neonik</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">Neonik invited to Colony 6</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Lifespan_of_a_Machina</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Homs Determination</quest-id>
+    <client>Perrine</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Odd Smoke - Resolution</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Homs_Determination</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Dauntless Trader</quest-id>
+    <client>Werner</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">A Gutsy Trader</quest-id>
+      </blocker>
+      <blocker type="Unknown">Nopo'rikh registered</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Dauntless_Trader</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">A Poet's Concerns</quest-id>
+    <client>Yura</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Lifespan of a Machina</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Poet%27s_Concerns</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Family Secrets</quest-id>
+    <client>Zel Argentis</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="NPCInviteToC6">Oleksiy</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Family_Secrets_(Zel_Argentis)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Betrothal Test</quest-id>
+    <client>Oleksiy</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">Family Secrets involving Zel Argentis completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>4.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Betrothal_Test_(Zel_Argentis)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Stopping the Elopement</quest-id>
+    <client>Don Argentis</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">Betrothal Test involving Zel Argentis completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Colony 6</element>
+        <element>4.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Stopping_the_Elopement_(Zel_Argentis)</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Defend Colony 6 - Ancient</quest-id>
+    <client>Colony 6 Residents</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Defend Colony 6 - Elite</quest-id>
+      </blocker>
+      <blocker type="Unknown">reconstruction at 65%</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Ancient</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Defend Colony 6 - Demon</quest-id>
+    <client>Colony 6 Residents</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Defend Colony 6 - Ancient</quest-id>
+      </blocker>
+      <blocker type="Unknown">reconstruction at 95%</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Demon</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Replica Monado 1</quest-id>
+    <client>Vanea</client>
+    <blockers>
+      <blocker type="Unknown">Arrived at the Interior Landing Site (Bionis' Interior)</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Replica_Monado_1</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Replica Monado 2</quest-id>
+    <client>Vanea</client>
+    <blockers>
+      <blocker type="Unknown">Arrived at the Interior Landing Site (Bionis' Interior)</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Replica Monado 1</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Replica_Monado_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Replica Monado 3</quest-id>
+    <client>Vanea</client>
+    <blockers>
+      <blocker type="Unknown">Arrived at the Interior Landing Site (Bionis' Interior)</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Replica Monado 1</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Replica_Monado_3</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Replica Monado 4</quest-id>
+    <client>Vanea</client>
+    <blockers>
+      <blocker type="Unknown">Arrived at the Interior Landing Site (Bionis' Interior)</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Replica Monado 1</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Replica_Monado_4</link>
+  </quest>
+  <quest>
+    <quest-id location="Colony 6">Replica Monado 5</quest-id>
+    <client>Vanea</client>
+    <blockers>
+      <blocker type="Unknown">Arrived at the Interior Landing Site (Bionis' Interior)</blocker>
+      <blocker type="Quest">
+        <quest-id location="Colony 6">Replica Monado 1</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Replica_Monado_5</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Kacha's Kidnapping</quest-id>
+    <client>Bokoko</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Kacha%27s_Kidnapping</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Making Camp</quest-id>
+    <client>Bokoko</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">Kacha's Kidnapping</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Making_Camp</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">The Giants' Key</quest-id>
+    <client>Kacha</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">Kacha's Kidnapping</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Giants%27_Key</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">The Giants' Treasure</quest-id>
+    <client>Kacha</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">The Giants' Key</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Giants%27_Treasure</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Monster Quest 1</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_(Satorl_Marsh)</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Monster Quest 2</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Satorl_Marsh)</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Monster Quest 3</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_(Satorl_Marsh)</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Monster Quest 4</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_(Satorl_Marsh)</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Preventing Starvation</quest-id>
+    <client>Zazadan</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Preventing_Starvation</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Zazadan in Danger</quest-id>
+    <client>Zazadan</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">Preventing Starvation</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Zazadan_in_Danger</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Zazadan Still in Danger</quest-id>
+    <client>Zazadan</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">Zazadan in Danger</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Zazadan_Still_in_Danger</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">It's All in the Mind</quest-id>
+    <client>Zazadan</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">Zazadan Still in Danger</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/It%27s_All_in_the_Mind</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">A Mysterious Delicacy</quest-id>
+    <client>Zazadan</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">It's All in the Mind</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Mysterious_Delicacy</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">A Gift?</quest-id>
+    <client>Zazadan</client>
+    <blockers>
+      <blocker type="AreaAccess">Satorl Marsh</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">A Mysterious Delicacy</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Gift%3F</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">The Ancient Ceremony</quest-id>
+    <client>Nopon Merchant(Story Quest)</client>
+    <blockers>
+      <blocker type="Unknown">Sororal Statues reached</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Ancient_Ceremony</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Ancient Ceremony Offerings</quest-id>
+    <client>Nopon Merchant(Story Quest)</client>
+    <blockers>
+      <blocker type="Unknown">Sororal Statues reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">The Ancient Ceremony</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Ancient_Ceremony_Offerings</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Gather Information</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Adviser Hunt</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Gather_Information</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Challenge</quest-id>
+    <client>High Entia Refugee</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_(Satorl_Marsh)</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">For a Friend</quest-id>
+    <client>Rozeal</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/For_a_Friend</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">A Merciful End</quest-id>
+    <client>Rozeal</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">For a Friend</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Merciful_End</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">A Release From Duty</quest-id>
+    <client>Rozeal</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">A Merciful End.</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Release_From_Duty</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">The Imperial Ceremony</quest-id>
+    <client>Scarlen</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Imperial_Ceremony</link>
+  </quest>
+  <quest>
+    <quest-id location="Satorl Marsh">Imperial Ceremony Offerings</quest-id>
+    <client>Scarlen</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">The Imperial Ceremony</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Imperial_Ceremony_Offerings</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Monster Quest 1</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Makna Forest</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_(Makna_Forest)</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Monster Quest 2</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Makna Forest</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Makna_Forest)</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Monster Quest 3</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Makna Forest</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_(Makna_Forest)</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Monster Quest 4</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Makna Forest</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_(Makna_Forest)</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Mystery Girl Rescue</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Makna Forest</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mystery_Girl_Rescue</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Challenge</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="Unknown">Frontier Village reached</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_(Makna_Forest)</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Legend of the Sage</quest-id>
+    <client>Nopon Sage</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Meeting the Nopon Sage</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Legend_of_the_Sage</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Challenge of the Sage</quest-id>
+    <client>Nopon Sage</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Makna Forest">Legend of the Sage</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_of_the_Sage</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Bridge Repair</quest-id>
+    <client>Nopon Researcher</client>
+    <blockers>
+      <blocker type="Unknown">Access to Pod Landing Site in order to reach Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Bridge_Repair</link>
+  </quest>
+  <quest>
+    <quest-id location="Makna Forest">Final Challenge of the Sage</quest-id>
+    <client>Nopon Sage</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Makna Forest">Challenge of the Sage</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.5</element>
+      </blocker>
+      <blocker type="Unknown">Riki in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Final_Challenge_of_the_Sage</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">An Errand for the Heropon</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/An_Errand_for_the_Heropon</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Challenge 1</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_1_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Challenge 2</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_2_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Challenge 3</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_3_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Collection Quest 1</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Collection Quest 2</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Collection Quest 3</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_3_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Collection Quest 4</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_4_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Hunt for Bug-Loving Friend</quest-id>
+    <client>Kokora</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="RegisterNPC">
+        <element>Deki</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Hunt_for_Bug-Loving_Friend</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Leku's Food Crisis</quest-id>
+    <client>Leku</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="RegisterNPC">
+        <element>Kilaki</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Leku%27s_Food_Crisis</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Making a Mixer</quest-id>
+    <client>Rono</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="RegisterNPC">
+        <element>Pepa</element>
+      </blocker>
+      <blocker type="Unknown">Shulk in the lead.</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Making_a_Mixer</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Materials for a Mixer</quest-id>
+    <client>Rono</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Making a Mixer</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Materials_for_a_Mixer</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Material Quest 1</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_1_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Material Quest 2</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_2_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Material Quest 4</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_4_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Monster Quest 1 - Part 1</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_1_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Monster Quest 1 - Part 2</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_2_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Monster Quest 1 - Part 3</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_3_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Monster Quest 2 - Part 1</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_1_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Monster Quest 2 - Part 2</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_2_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Monster Quest 2 - Part 3</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_3_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Mushy Mushrooms</quest-id>
+    <client>Kofuko</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mushy_Mushrooms</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Search Quest 1</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_1_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Search Quest 2</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_2_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Search Quest 3</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_3_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">A Worried Bug-Lover</quest-id>
+    <client>Deki</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Hunt for Bug-Loving Friend</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Worried_Bug-Lover</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Disinsectization</quest-id>
+    <client>Rasha</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="RegisterNPC">
+        <element>Cherri</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Disinsectization</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Hunt for a Patron</quest-id>
+    <client>Leku</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Leku's Food Crisis</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Hunt_for_a_Patron</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Heropon's Spirit</quest-id>
+    <client>Kilaki</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Hunt for a Patron</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Heropon%27s_Spirit</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Pollen Orb Ingredients</quest-id>
+    <client>Dobadoba</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Pollen_Orb_Ingredients</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Secret Ingredient Hunt</quest-id>
+    <client>Bana</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Pollen Orb Ingredients</quest-id>
+      </blocker>
+      <blocker type="Unknown">Gadada registered on the Affinity Chart then spoken to</blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Secret_Ingredient_Hunt</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Secret Innovation</quest-id>
+    <client>Rasha</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Pollen Orb Ingredients</quest-id>
+      </blocker>
+      <blocker type="Unknown">Cherri registered on the Affinity Chart then spoken to</blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Secret_Innovation</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Beat Kilaki to it!</quest-id>
+    <client>Leku</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Heropon's Spirit</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Beat_Kilaki_to_it!</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Dadapon in Trouble</quest-id>
+    <client>Pachipa</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Unknown">Pachipa and Gerugu affinity link: </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Dadapon_in_Trouble</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Kind Lupa's Grampypon</quest-id>
+    <client>Lupa</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Kind_Lupa%27s_Grampypon</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Secret Elixir Ingredients</quest-id>
+    <client>Lupa</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Kind Lupa's Grampypon</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Secret_Elixir_Ingredients</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">The Master's Successor</quest-id>
+    <client>Dobadoba</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Secret Ingredient Hunt</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Secret Innovation</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Master%27s_Successor</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">It Definitely Exist!</quest-id>
+    <client>Pachipa</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Unknown">Pipiki and Pachipa affinity link:</blocker>
+      <blocker type="RegisterNPC">
+        <element>Kuriku</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Dadapon in Trouble</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/It_Definitely_Exist!</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Popularity Premonition</quest-id>
+    <client>Leku</client>
+    <blockers>
+      <blocker type="AreaAccess">Frontier Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Beat Kilaki to it!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Popularity_Premonition</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Decoration Makeover</quest-id>
+    <client>Pepa</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Decoration_Makeover</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Fixing Time Mushrooms</quest-id>
+    <client>Migaga</client>
+    <blockers>
+      <blocker type="Unknown">An Errand for the Heropon story quest accepted</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Fixing_Time_Mushrooms</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Strange Noises from Below</quest-id>
+    <client>Pipiki</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">An Errand for the Heropon</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Strange_Noises_from_Below</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Musical Genius</quest-id>
+    <client>Tati</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Strange Noises from Below</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Musical_Genius</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Things that Hum</quest-id>
+    <client>Tati</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Strange Noises from Below</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Musical Genius</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Things_that_Hum</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Things that Rumble</quest-id>
+    <client>Tati</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Strange Noises from Below</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Musical Genius</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Things_that_Rumble</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Sweet Seduction</quest-id>
+    <client>Migaga</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="RegisterNPC">
+        <element>Kofuko</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Fixing Time Mushrooms</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Sweet_Seduction</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Ingredients For A Brew</quest-id>
+    <client>Kofuko</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Sweet Seduction</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Fixing Time Mushrooms</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Ingredients_For_A_Brew</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Lousy Lizards</quest-id>
+    <client>Modamo</client>
+    <blockers>
+      <blocker type="Unknown">Riki joined the party</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Beat Kilaki to it!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Lousy_Lizards</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Honouring the Nopon Sage</quest-id>
+    <client>Pipiki</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Strange Noises from Below</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Honouring_the_Nopon_Sage</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Meeting the Nopon Sage</quest-id>
+    <client>Pipiki</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Honouring the Nopon Sage</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Meeting_the_Nopon_Sage</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">A Tormented Bug-Lover</quest-id>
+    <client>Deki</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">A Worried Bug-Lover</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Tormented_Bug-Lover</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Avenge a Mamapon's Death</quest-id>
+    <client>Rasha</client>
+    <blockers>
+      <blocker type="Unknown">Eryth Sea reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Disinsectization</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Secret Innovation</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>4.0</element>
+      </blocker>
+      <blocker type="Unknown">Sharla in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Avenge_a_Mamapon%27s_Death</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Dangerous Ambition</quest-id>
+    <client>Cherri</client>
+    <blockers>
+      <blocker type="Unknown">Alcamoth reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">The Master's Successor</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Dangerous_Ambition</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Find the Kingpin</quest-id>
+    <client>Gadada</client>
+    <blockers>
+      <blocker type="Unknown">Alcamoth reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Dangerous Ambition</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Find_the_Kingpin</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Adviser Hunt</quest-id>
+    <client>Gadada</client>
+    <blockers>
+      <blocker type="Unknown">Alcamoth reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Find the Kingpin</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Satorl Marsh">A Gift?</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Adviser_Hunt</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Evidence Collection</quest-id>
+    <client>Gadada</client>
+    <blockers>
+      <blocker type="Unknown">Alcamoth reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Adviser Hunt</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Evidence_Collection</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Destroying the City Trade</quest-id>
+    <client>Gadada</client>
+    <blockers>
+      <blocker type="Unknown">Alcamoth reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Evidence Collection</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Destroying_the_City_Trade</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Giant Attack!</quest-id>
+    <client>Lalapa</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Makna Forest">Bridge Repair</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Giant_Attack!</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Material Quest 3</quest-id>
+    <client>Nopon Villager</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_3_(Frontier_Village)</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Let's Make Fillings!</quest-id>
+    <client>Yusa</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="RegisterNPC">
+        <element>Medi</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Mushy Mushrooms</quest-id>
+      </blocker>
+      <blocker type="Unknown">Medical Advancements not completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Let%27s_Make_Fillings!</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Medical Advancements</quest-id>
+    <client>Medi</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="RegisterNPC">
+        <element>Yusa</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Mushy Mushrooms</quest-id>
+      </blocker>
+      <blocker type="Unknown">Let's Make Fillings! not completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Medical_Advancements</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Mystery of Makna Ruins 1</quest-id>
+    <client>Lupa</client>
+    <blockers>
+      <blocker type="Unknown">Access to Pod Landing Site</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Kind Lupa's Grampypon</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mystery_of_Makna_Ruins_1</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Mystery of Makna Ruins 2</quest-id>
+    <client>Lupa</client>
+    <blockers>
+      <blocker type="Unknown">Access to Pod Landing Site</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Mystery of Makna Ruins 1</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mystery_of_Makna_Ruins_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Healing the Healer</quest-id>
+    <client>Npa</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Medical Advancements</quest-id>
+      </blocker>
+      <blocker type="Unknown">or Let's Make Fillings!</blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Healing_the_Healer</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Legendary Nopon Charm</quest-id>
+    <client>Npa</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Medical Advancements</quest-id>
+      </blocker>
+      <blocker type="Unknown">or Let's Make Fillings!</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Healing the Healer</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Legendary_Nopon_Charm</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Mislabelling Problem</quest-id>
+    <client>Medi</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Healing the Healer</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mislabelling_Problem</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Mystery of Makna Ruins 3</quest-id>
+    <client>Lupa</client>
+    <blockers>
+      <blocker type="Unknown">Access to Pod Landing Site</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Mystery of Makna Ruins 2</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mystery_of_Makna_Ruins_3</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Mystery of Makna Ruins 4</quest-id>
+    <client>Lupa</client>
+    <blockers>
+      <blocker type="Unknown">Access to Pod Landing Site</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Mystery of Makna Ruins 3</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mystery_of_Makna_Ruins_4</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Getting Bigger!</quest-id>
+    <client>Dabidabi</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Mislabelling Problem</quest-id>
+      </blocker>
+      <blocker type="RegisterNPC">
+        <element>Adidi</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.5</element>
+      </blocker>
+      <blocker type="Unknown">Riki in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Getting_Bigger!</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Who is Bigger?</quest-id>
+    <client>Dabidabi</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Getting Bigger!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Who_is_Bigger%3F</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Reversed Tastes</quest-id>
+    <client>Kofuko</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Let's Make Fillings!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>4.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Reversed_Tastes</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">World's Strongest Flavour</quest-id>
+    <client>Kofuko</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Medical Advancements</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>4.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/World%27s_Strongest_Flavour</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Even In the Chief's Absence</quest-id>
+    <client>Miko</client>
+    <blockers>
+      <blocker type="Unknown">Met Miqol in the Hidden Machina Village</blocker>
+      <blocker type="Unknown">Lalapa and Miko affinity link: </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Even_In_the_Chief%27s_Absence</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Bored Pelupelu</quest-id>
+    <client>Pelupelu</client>
+    <blockers>
+      <blocker type="Unknown">Met Miqol in Hidden Machina Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Even In the Chief's Absence</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Bored_Pelupelu</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">A Gift For Miko</quest-id>
+    <client>Pelupelu</client>
+    <blockers>
+      <blocker type="Unknown">Met Miqol in Hidden Machina Village</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Bored Pelupelu</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Gift_For_Miko</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">A Memento of Daddy</quest-id>
+    <client>Atael</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="RegisterNPC">
+        <element>Cian</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Memento_of_Daddy</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Restoring the Capital</quest-id>
+    <client>Nelo</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Restoring_the_Capital</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Restoring the Capital 2</quest-id>
+    <client>Nelo</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Restoring the Capital</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Restoring_the_Capital_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Broken Ether Furnace</quest-id>
+    <client>Kaleka</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">Restoring the Capital and Vidian Rescue Mission in Alcamoth triggered</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Broken_Ether_Furnace</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Broken Ether Furnace 2</quest-id>
+    <client>Kaleka</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Broken Ether Furnace</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Broken_Ether_Furnace_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Bana the Betrayer</quest-id>
+    <client>Gadada</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Destroying the City Trade</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Bana_the_Betrayer</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Distilling Active Ingredients</quest-id>
+    <client>Cherri</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">The Master's Successor completed with B route</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Bana the Betrayer</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Distilling_Active_Ingredients</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Safer Energy</quest-id>
+    <client>Gadada</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">The Master's Successor completed with A route</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Bana the Betrayer</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Safer_Energy</link>
+  </quest>
+  <quest>
+    <quest-id location="Frontier Village">Presents for Priceless Pupils</quest-id>
+    <client>Dobadoba</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="MutualExclusiveQuests">
+        <quest-id location="Frontier Village">Safer Energy</quest-id>
+        <quest-id location="Frontier Village">Distilling Active Ingredients</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Central Bionis</element>
+        <element>4.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Presents_for_Priceless_Pupils</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Save the Worker</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Save_the_Worker</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Challenge</quest-id>
+    <client>Lighthouse Keeper</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_(Eryth_Sea)</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Challenge Quest 1</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collect_Quest_1_(Eryth_Sea)</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Challenge Quest 2</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collect_Quest_2_(Eryth_Sea)</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Monster Quest 1</quest-id>
+    <client>Lighthouse Keeper</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_(Eryth_Sea)</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Monster Quest 2</quest-id>
+    <client>Lighthouse Keeper</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Eryth_Sea)</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Trouble at the Plant</quest-id>
+    <client>Jarack</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Trouble_at_the_Plant</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Punish the Hodes</quest-id>
+    <client>Jarack</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+      <blocker type="Quest">
+        <quest-id location="Eryth Sea">Trouble at the Plant</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Punish_the_Hodes</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Mend the Plant</quest-id>
+    <client>Jarack</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+      <blocker type="Quest">
+        <quest-id location="Eryth Sea">Trouble at the Plant</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mend_the_Plant</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Hode Attack</quest-id>
+    <client>Jarack</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+      <blocker type="Quest">
+        <quest-id location="Eryth Sea">Trouble at the Plant</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Hode_Attack</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Trouble at the Lighthouse</quest-id>
+    <client>Shalen</client>
+    <blockers>
+      <blocker type="AreaAccess">Eryth Sea</blocker>
+      <blocker type="Quest">
+        <quest-id location="Eryth Sea">Hode Attack</quest-id>
+      </blocker>
+      <blocker type="Unknown">Melia in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Trouble_at_the_Lighthouse</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Path to Prison Island</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="Unknown">In the course to Prison Island</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Path_to_Prison_Island</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Sister Seals</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="Unknown">In the course to Prison Island</blocker>
+      <blocker type="Quest">
+        <quest-id location="Eryth Sea">Path to Prison Island</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Sister_Seals</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Investigating Satorl</quest-id>
+    <client>Miriall</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">Talia's Research not completed</blocker>
+      <blocker type="Quest">
+        <quest-id location="Eryth Sea">The Missing Boy</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Investigating_Satorl</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">The Missing Boy</quest-id>
+    <client>Miriall</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Missing_Boy</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Secret Research</quest-id>
+    <client>Teelan</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Eryth Sea">The Missing Boy</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Secret_Research</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">I Will Never Forget You</quest-id>
+    <client>Vidian</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Vidian Rescue Mission</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Believing Again</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/I_Will_Never_Forget_You</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">The Only Thing I Can Do</quest-id>
+    <client>Vidian</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Vidian Rescue Mission</quest-id>
+      </blocker>
+      <blocker type="Unknown">Believing Again not completed</blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Only_Thing_I_Can_Do</link>
+  </quest>
+  <quest>
+    <quest-id location="Eryth Sea">Ancient High Entia Mystery</quest-id>
+    <client>Talia</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="MutualExclusiveQuests">
+        <quest-id location="Alcamoth">Talia's Research</quest-id>
+        <quest-id location="Eryth Sea">Investigating Satorl</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>2.5</element>
+      </blocker>
+      <blocker type="Unknown">Melia in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Ancient_High_Entia_Mystery</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">A Friend in Need</quest-id>
+    <client>Lecrough</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Unknown">Galvin registered on the Affinity Chart and spoken to</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Friend_in_Need_(XC1)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Back Pain</quest-id>
+    <client>Galdo</client>
+    <blockers>
+      <blocker type="Unknown">Whitewing Palace reached</blocker>
+      <blocker type="Unknown">Lar'shen registered on the Affinity Chart and spoken to</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Back_Pain</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Bring Back My Son!</quest-id>
+    <client>Merisa</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Unknown">Mir'leiz registered</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Bring_Back_My_Son!</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Teaching Materials</quest-id>
+    <client>Mir'leiz</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Bring Back My Son!</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Teaching_Materials</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Building Bridges</quest-id>
+    <client>Arielle</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="RegisterNPC">
+        <element>Vidian</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Building_Bridges</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Challenge 1</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_1_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Challenge 2</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_2_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Challenge 3</quest-id>
+    <client>Alcamoth Imperial Guard</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_3_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Challenge 4</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_4_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Collection Quest 1</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Collection Quest 2</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Collection Quest 3</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_3_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Collection Quest 4</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Collection_Quest_4_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Getting a Member's Card</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Frontier Village">Destroying the City Trade</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Getting_a_Member%27s_Card</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Going Out to Play</quest-id>
+    <client>Popipo</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Going_Out_to_Play</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">How Do They Feel?</quest-id>
+    <client>Scarlen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/How_Do_They_Feel%3F</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">How Do I Feel?</quest-id>
+    <client>Scarlen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">How Do They Feel?</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/How_Do_I_Feel%3F</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Together Forever</quest-id>
+    <client>Scarlen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">How Do I Feel?</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Together_Forever</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">I Love You No Matter What</quest-id>
+    <client>Scarlen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">How Do I Feel?</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/I_Love_You_No_Matter_What</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Looking for a Lost Son</quest-id>
+    <client>Vol'aren</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Looking_for_a_Lost_Son</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Looking for a Lost Daughter</quest-id>
+    <client>Vol'aren</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Looking for a Lost Son</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Looking_for_a_Lost_Daughter</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Looking for Gold Bugs</quest-id>
+    <client>Teelan</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Looking_for_Gold_Bugs</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Losing the Taste for Alcohol</quest-id>
+    <client>Nelo</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Losing_the_Taste_for_Alcohol</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Material Quest 1</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_1_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Material Quest 2</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_2_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Material Quest 3</quest-id>
+    <client>Alcamoth Imperial Guard</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_3_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Material Quest 4</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Material_Quest_4_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 1 - Part 1</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_1_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 1 - Part 2</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_2_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 1 - Part 3</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_3_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 2 - Part 1</quest-id>
+    <client>Alcamoth Imperial Guard</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_1_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 2 - Part 2</quest-id>
+    <client>Alcamoth Imperial Guard</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_2_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 2 - Part 3</quest-id>
+    <client>Alcamoth Imperial Guard</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_3_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 3 - Part 1</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_1_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 3 - Part 2</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_2_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 3 - Part 3</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_3_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 4 - Part 1</quest-id>
+    <client>Alcamoth Imperial Guard</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_1_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 4 - Part 2</quest-id>
+    <client>Alcamoth Imperial Guard</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_2_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Monster Quest 4 - Part 3</quest-id>
+    <client>Alcamoth Imperial Guard</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_3_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Preparing for Adventure</quest-id>
+    <client>Zain</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Unknown">Kurralth registered on the Affinity Chart and spoken to</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Preparing_for_Adventure</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Search Quest 1</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_1_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Search Quest 2</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_2_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Search Quest 3</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_3_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Search Quest 4</quest-id>
+    <client>Alcamoth Citizen</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Search_Quest_4_(Alcamoth)</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">The Deciphering Machine</quest-id>
+    <client>Ruthan</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Deciphering_Machine</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Preparing for Adventure 2</quest-id>
+    <client>Kurralth</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Preparing for Adventure</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>1.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Preparing_for_Adventure_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Brave Actions</quest-id>
+    <client>Mir'leiz</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">A Friend in Need</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Teaching Materials</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Brave_Actions</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Protect the Capital!</quest-id>
+    <client>Lecrough</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Brave Actions</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Protect_the_Capital!</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Preparing for Adventure 3</quest-id>
+    <client>Zain</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Preparing for Adventure 2</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Preparing_for_Adventure_3</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Starlight Seeker</quest-id>
+    <client>Elior</client>
+    <blockers>
+      <blocker type="AreaAccess">Alcamoth</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Preparing for Adventure 3</quest-id>
+      </blocker>
+      <blocker type="RegisterNPC">
+        <element>Miriall</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Starlight_Seeker</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">A Necessary Upgrade</quest-id>
+    <client>Naroth</client>
+    <blockers>
+      <blocker type="Unknown">In the course to the High Entia Tomb</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">The Deciphering Machine</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>1.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Necessary_Upgrade</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Talia's Research</quest-id>
+    <client>Talia</client>
+    <blockers>
+      <blocker type="Unknown">Heading to the High Entia Tomb</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">A Necessary Upgrade</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Talia%27s_Research</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Starlight Gazer</quest-id>
+    <client>Elior</client>
+    <blockers>
+      <blocker type="Unknown">Heading to the High Entia Tomb</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Starlight Seeker</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Starlight_Gazer</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Believing Again</quest-id>
+    <client>Vidian</client>
+    <blockers>
+      <blocker type="Unknown">Valak Mountain reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Building Bridges</quest-id>
+      </blocker>
+      <blocker type="Unknown">Upper Bionis ☆ 1½</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Believing_Again</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Adventurers in Peril</quest-id>
+    <client>Miriall</client>
+    <blockers>
+      <blocker type="Unknown">Valak Mountain reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Alcamoth">Preparing for Adventure 3</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Upper Bionis</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Adventurers_in_Peril</link>
+  </quest>
+  <quest>
+    <quest-id location="Alcamoth">Vidian Rescue Mission</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">Restoring the Capital objective completed</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Vidian_Rescue_Mission</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">Monster Quest 1</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_1_(Valak_Mountain)</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">Monster Quest 2</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Valak_Mountain)</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">Monster Quest 3</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_3_(Valak_Mountain)</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">Monster Quest 4</quest-id>
+    <client>A Nopon Merchant</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_4_(Valak_Mountain)</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">Chilkins and Antols</quest-id>
+    <client>A Nopon Researcher</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Chilkins_and_Antols</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">Valak Mountain Research</quest-id>
+    <client>A Nopon Researcher</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Valak Mountain">Chilkins and Antols</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Valak_Mountain_Research</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">The Freezing Nopon</quest-id>
+    <client>A Nopon Researcher</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Freezing_Nopon</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">The Magma Rock</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Magma_Rock</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">Bad Timing</quest-id>
+    <client>A Nopon Researcher</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Valak Mountain">The Magma Rock</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Bad_Timing</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">Chilkin Changes</quest-id>
+    <client>Dakuku</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Valak Mountain">Bad Timing</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Chilkin_Changes</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">The Balance of Power</quest-id>
+    <client>Dakuku</client>
+    <blockers>
+      <blocker type="AreaAccess">Valak Mountain</blocker>
+      <blocker type="Quest">
+        <quest-id location="Valak Mountain">Chilkin Changes</quest-id>
+      </blocker>
+      <blocker type="Unknown">Dunban in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Balance_of_Power</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">The Missing Partner</quest-id>
+    <client>Kurralth</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Unknown">Adventurers in Peril not completed</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Missing_Partner</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">The Final Giants' Ruins</quest-id>
+    <client>Zain</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="MutualExclusiveQuests">
+        <quest-id location="Valak Mountain">The Missing Partner</quest-id>
+        <quest-id location="Alcamoth">Adventurers in Peril</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Final_Giants%27_Ruins</link>
+  </quest>
+  <quest>
+    <quest-id location="Valak Mountain">The Giants' Treasures</quest-id>
+    <client>Zain</client>
+    <blockers>
+      <blocker type="AreaClear">Mechonis Core</blocker>
+      <blocker type="Quest">
+        <quest-id location="Valak Mountain">The Final Giants' Ruins</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Giants%27_Treasures</link>
+  </quest>
+  <quest>
+    <quest-id location="Sword Valley">Secure Dolgan Outpost</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="Unknown">N/A</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Secure_Dolgan_Outpost</link>
+  </quest>
+  <quest>
+    <quest-id location="Sword Valley">Secure Enalda Control Base</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="Unknown">N/A</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Secure_Enalda_Control_Base</link>
+  </quest>
+  <quest>
+    <quest-id location="Sword Valley">3rd Gate Front Line</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="Unknown">N/A</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/3rd_Gate_Front_Line</link>
+  </quest>
+  <quest>
+    <quest-id location="Sword Valley">Secure the Radio Tower</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="Unknown">N/A</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Secure_the_Radio_Tower</link>
+  </quest>
+  <quest>
+    <quest-id location="Galahad Fortress">Lift Battle</quest-id>
+    <client>Story Quest</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Lift_Battle</link>
+  </quest>
+  <quest>
+    <quest-id location="Galahad Fortress">Supply Station Battle</quest-id>
+    <client>Story Quest</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Supply_Station_Battle</link>
+  </quest>
+  <quest>
+    <quest-id location="Galahad Fortress">Turbine Battle</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Galahad Fortress">Supply Station Battle</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Turbine_Battle</link>
+  </quest>
+  <quest>
+    <quest-id location="Galahad Fortress">Fiora's Conviction</quest-id>
+    <client>Story Quest</client>
+    <blockers/>
+    <link>https://xenoblade.fandom.com/wiki/Fiora%27s_Conviction</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Reunion with Fiora</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Fallen Arm</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Reunion_with_Fiora</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">We Made It</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Fallen Arm</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Reunion with Fiora</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/We_Made_It</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Fixing a Broken Door</quest-id>
+    <client>Rizaka</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+      <blocker type="RegisterNPC">
+        <element>Eleqa</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Fixing_a_Broken_Door</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Food Delivery</quest-id>
+    <client>Natalia</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Food_Delivery</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">For My Loved One...</quest-id>
+    <client>Zarkort</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+      <blocker type="Unknown">Food Delivery accepted and Theo spoken to</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/For_My_Loved_One...</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">To My Loved One...</quest-id>
+    <client>Zarkort</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">For My Loved One...</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/To_My_Loved_One...</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">I Want to be a Homs!</quest-id>
+    <client>Rakzet</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+      <blocker type="RegisterNPC">
+        <element>Natalia</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/I_Want_to_be_a_Homs!</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Mysterious Noises</quest-id>
+    <client>Prox</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mysterious_Noises</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Save the Machina!</quest-id>
+    <client>Voltak</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Save_the_Machina!</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Protect the Village</quest-id>
+    <client>Eleqa</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>1.25</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Protect_the_Village</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Eliminate the Threat</quest-id>
+    <client>Voltak</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Save the Machina!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Eliminate_the_Threat</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Powerless</quest-id>
+    <client>Rakzet</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">I Want to be a Homs!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Powerless</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Stop the Mechon Rampage!</quest-id>
+    <client>Eleqa</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Protect the Village</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Stop_the_Mechon_Rampage!</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">The Wilted Flower</quest-id>
+    <client>Rizaka</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+      <blocker type="RegisterNPC">
+        <element>Vronik</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Fixing a Broken Door</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Wilted_Flower</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">A Tough Battle</quest-id>
+    <client>Kazat</client>
+    <blockers>
+      <blocker type="Unknown">Hidden Machina Village reached</blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Tough_Battle</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Power Up!</quest-id>
+    <client>Rakzet</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Powerless</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>2.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Power_Up!</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Therapy</quest-id>
+    <client>Eleqa</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Stop the Mechon Rampage!</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>2.0</element>
+      </blocker>
+      <blocker type="Unknown">Eleqa and Eiz affinity link: </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Therapy</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Scheduled Inspection</quest-id>
+    <client>Xekit</client>
+    <blockers>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">The Wilted Flower</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>2.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Scheduled_Inspection</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Fiora's Treatment</quest-id>
+    <client>Linada (Story Quest)</client>
+    <blockers>
+      <blocker type="Unknown">Miqol met in the Hidden Machina Village</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Fiora%27s_Treatment</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">The History of Mechonis</quest-id>
+    <client>Zilex</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_History_of_Mechonis</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Mending Memories</quest-id>
+    <client>Mixik</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Mending_Memories</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Resolution - Father</quest-id>
+    <client>Kazat</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Mending Memories</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Resolution_-_Father</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Resolution - Mother</quest-id>
+    <client>Qofaria</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Mending Memories</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>1.5</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Resolution_-_Mother</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">The Oath Sword</quest-id>
+    <client>Karlos</client>
+    <blockers>
+      <blocker type="Unknown">Mechonis Field reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">The Wilted Flower</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>2.0</element>
+      </blocker>
+      <blocker type="Unknown">Fiora in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Oath_Sword</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">A Weapon Just For Me</quest-id>
+    <client>Kazat</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Mending Memories</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">A Tough Battle</quest-id>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>3.0</element>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/A_Weapon_Just_For_Me</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">The History of the Capital</quest-id>
+    <client>Zilex</client>
+    <blockers>
+      <blocker type="Unknown">Agniratha reached</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">The History of Mechonis</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_History_of_the_Capital</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Stunted Growth</quest-id>
+    <client>Orkatix</client>
+    <blockers>
+      <blocker type="Unknown">After the attack on Colony 6</blocker>
+      <blocker type="RegisterNPC">
+        <element>Vronik</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>3.5</element>
+      </blocker>
+      <blocker type="Unknown">Dunban in the lead</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Stunted_Growth</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">The Exhaust Pump</quest-id>
+    <client>Orkatix</client>
+    <blockers>
+      <blocker type="Unknown">After the attack on Colony 6</blocker>
+      <blocker type="RegisterNPC">
+        <element>Vronik</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>4.0</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Stunted Growth</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Exhaust_Pump</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">The Mini Reactor</quest-id>
+    <client>Orkatix</client>
+    <blockers>
+      <blocker type="Unknown">After the attack on Colony 6</blocker>
+      <blocker type="RegisterNPC">
+        <element>Vronik</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>4.0</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Stunted Growth</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Mini_Reactor</link>
+  </quest>
+  <quest>
+    <quest-id location="Fallen Arm">Transmission Bypass</quest-id>
+    <client>Orkatix</client>
+    <blockers>
+      <blocker type="Unknown">After the attack on Colony 6</blocker>
+      <blocker type="RegisterNPC">
+        <element>Vronik</element>
+      </blocker>
+      <blocker type="AreaAffinity">
+        <element>Hidden Village</element>
+        <element>4.0</element>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">Stunted Growth</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Transmission_Bypass</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">Best Boots</quest-id>
+    <client>Bozatrox</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">For My Loved One...</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Fallen Arm">To My Loved One...</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Best_Boots</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">Monster Quest</quest-id>
+    <client>A Garrisoned Troop Machina</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Monster_Quest_(Mechonis_Field)</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">Challenge Quest 1</quest-id>
+    <client>A Garrisoned Troop Machina</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_Quest_1_(Mechonis_Field)</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">Challenge Quest 2</quest-id>
+    <client>A Garrisoned Troop Machina</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Challenge_Quest_2_(Mechonis_Field)</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">Aiming for the Top</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Aiming_for_the_Top</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">Get the 3rd Lift Moving</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="Quest">
+        <quest-id location="Mechonis Field">Aiming for the Top</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Get_the_3rd_Lift_Moving</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">Opening the Bulkhead</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="Quest">
+        <quest-id location="Mechonis Field">Get the 3rd Lift Moving</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Opening_the_Bulkhead</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">The High-Velocity Lift</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="Quest">
+        <quest-id location="Mechonis Field">Opening the Bulkhead</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_High-Velocity_Lift</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Field">Need Power!</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Field</blocker>
+      <blocker type="Quest">
+        <quest-id location="Mechonis Field">Opening the Bulkhead</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Mechonis Field">The High-Velocity Lift</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Need_Power!</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">Find a Path to the Top</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Central Factory</blocker>
+      <blocker type="Quest">
+        <quest-id location="Central Factory">Maintenance Wing Escape</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Find_a_Path_to_the_Top</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">Maintenance Wing Escape</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Central Factory</blocker>
+      <blocker type="Quest">
+        <quest-id location="Central Factory">To the Central Tower</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Maintenance_Wing_Escape</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">Materials for a Bomb</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Central Factory</blocker>
+      <blocker type="Quest">
+        <quest-id location="Central Factory">Maintenance Wing Escape</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Central Factory">Find a Path to the Top</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Materials_for_a_Bomb</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">The Central Tower Barrier</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Central Factory</blocker>
+      <blocker type="Quest">
+        <quest-id location="Central Factory">Find a Path to the Top</quest-id>
+      </blocker>
+      <blocker type="Quest">
+        <quest-id location="Central Factory">Materials for a Bomb</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/The_Central_Tower_Barrier</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">To the Central Tower</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Central Factory</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/To_the_Central_Tower</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">Daring Assault</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Central Factory</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Daring_Assault</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">Eliminate the Backup!</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Central Factory</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Eliminate_the_Backup!</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">Roof Battle</quest-id>
+    <client>Surprise Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Central Factory</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Roof_Battle</link>
+  </quest>
+  <quest>
+    <quest-id location="Central Factory">New Weapon for Fiora</quest-id>
+    <client>Junks Staff</client>
+    <blockers>
+      <blocker type="Unknown">Ventilation Conduit reached</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/New_Weapon_for_Fiora</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Shrine Transport</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Shrine_Transport</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Pillar Verification Devices</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+      <blocker type="Quest">
+        <quest-id location="Agniratha">Shrine Transport</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Pillar_Verification_Devices</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Agniratha Beautification 1</quest-id>
+    <client>City Planning Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Agniratha_Beautification_1</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Agniratha Beautification 2</quest-id>
+    <client>City Planning Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Agniratha_Beautification_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Civil Protection 1 - 1</quest-id>
+    <client>Civil Protection Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Civil_Protection_1_-_1</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Civil Protection 1 - 2</quest-id>
+    <client>Civil Protection Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Civil_Protection_1_-_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Civil Protection 1 - 3</quest-id>
+    <client>Civil Protection Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Civil_Protection_1_-_3</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Civil Protection 2 - 1</quest-id>
+    <client>Civil Protection Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Civil_Protection_2_-_1</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Civil Protection 2 - 2</quest-id>
+    <client>Civil Protection Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Civil_Protection_2_-_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Civil Protection 2 - 3</quest-id>
+    <client>Civil Protection Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Civil_Protection_2_-_3</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Military Status 1 - 1</quest-id>
+    <client>Military Status Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Military_Status_1_-_1</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Military Status 1 - 2</quest-id>
+    <client>Military Status Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Military_Status_1_-_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Military Status 2 - 1</quest-id>
+    <client>Military Status Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Military_Status_2_-_1</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Military Status 2 - 2</quest-id>
+    <client>Military Status Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Military_Status_2_-_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Telethia Investigation 1</quest-id>
+    <client>Strategic Intel Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Telethia_Investigation_1</link>
+  </quest>
+  <quest>
+    <quest-id location="Agniratha">Telethia Investigation 2</quest-id>
+    <client>Strategic Intel Terminal</client>
+    <blockers>
+      <blocker type="AreaAccess">Agniratha</blocker>
+      <blocker type="Quest">
+        <quest-id location="Agniratha">Telethia Investigation 1</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Telethia_Investigation_2</link>
+  </quest>
+  <quest>
+    <quest-id location="Mechonis Core">Save Bionis</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="AreaAccess">Mechonis Core</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Save_Bionis</link>
+  </quest>
+  <quest>
+    <quest-id location="Prison Island">Chase Dickson</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="Unknown">Prison Island area reached for the second time</blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Chase_Dickson</link>
+  </quest>
+  <quest>
+    <quest-id location="Prison Island">Path to the Top</quest-id>
+    <client>Story Quest</client>
+    <blockers>
+      <blocker type="Unknown">Prison Island area reached for the second time</blocker>
+      <blocker type="Quest">
+        <quest-id location="Prison Island">Chase Dickson</quest-id>
+      </blocker>
+    </blockers>
+    <link>https://xenoblade.fandom.com/wiki/Path_to_the_Top</link>
+  </quest>
+</quests>

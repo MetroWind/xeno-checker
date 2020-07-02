@@ -1,0 +1,945 @@
+<?xml version='1.0' encoding='utf-8'?>
+<monsters>
+  <monster>
+    <level>5</level>
+    <location>Colony 9</location>
+    <name>Verdant Bluchal</name>
+    <link>https://xenoblade.fandom.com/wiki/Verdant_Bluchal</link>
+  </monster>
+  <monster>
+    <level>6</level>
+    <location>Colony 9</location>
+    <name>Evil Rhangrot</name>
+    <link>https://xenoblade.fandom.com/wiki/Evil_Rhangrot</link>
+  </monster>
+  <monster>
+    <level>6</level>
+    <location>Colony 9</location>
+    <name>Itinerant Dorothea</name>
+    <link>https://xenoblade.fandom.com/wiki/Itinerant_Dorothea</link>
+  </monster>
+  <monster>
+    <level>6</level>
+    <location>Colony 9</location>
+    <name>Lake Magdalena</name>
+    <link>https://xenoblade.fandom.com/wiki/Lake_Magdalena</link>
+  </monster>
+  <monster>
+    <level>10</level>
+    <location>Colony 9</location>
+    <name>Speedy Ramshyde</name>
+    <link>https://xenoblade.fandom.com/wiki/Speedy_Ramshyde</link>
+  </monster>
+  <monster>
+    <level>13</level>
+    <location>Colony 9</location>
+    <name>Enchanting Grune</name>
+    <link>https://xenoblade.fandom.com/wiki/Enchanting_Grune</link>
+  </monster>
+  <monster>
+    <level>18</level>
+    <location>Colony 9</location>
+    <name>Dark Murakmor</name>
+    <link>https://xenoblade.fandom.com/wiki/Dark_Murakmor</link>
+  </monster>
+  <monster>
+    <level>37</level>
+    <location>Colony 9</location>
+    <name>Gentle Mother Armu</name>
+    <link>https://xenoblade.fandom.com/wiki/Gentle_Mother_Armu</link>
+  </monster>
+  <monster>
+    <level>38</level>
+    <location>Colony 9</location>
+    <name>Impenetrable Redrob</name>
+    <link>https://xenoblade.fandom.com/wiki/Impenetrable_Redrob</link>
+  </monster>
+  <monster>
+    <level>39</level>
+    <location>Colony 9</location>
+    <name>Roguish Frengel</name>
+    <link>https://xenoblade.fandom.com/wiki/Roguish_Frengel</link>
+  </monster>
+  <monster>
+    <level>40</level>
+    <location>Colony 9</location>
+    <name>Gentle Rodriguez</name>
+    <link>https://xenoblade.fandom.com/wiki/Gentle_Rodriguez</link>
+  </monster>
+  <monster>
+    <level>40</level>
+    <location>Colony 9</location>
+    <name>Lakebed Orthlus</name>
+    <link>https://xenoblade.fandom.com/wiki/Lakebed_Orthlus</link>
+  </monster>
+  <monster>
+    <level>44</level>
+    <location>Colony 9</location>
+    <name>Shadeless Matrix</name>
+    <link>https://xenoblade.fandom.com/wiki/Shadeless_Matrix</link>
+  </monster>
+  <monster>
+    <level>73</level>
+    <location>Colony 9</location>
+    <name>Flailing Bracken</name>
+    <link>https://xenoblade.fandom.com/wiki/Flailing_Bracken</link>
+  </monster>
+  <monster>
+    <level>8</level>
+    <location>Tephra Cave</location>
+    <name>Mining Patrichev</name>
+    <link>https://xenoblade.fandom.com/wiki/Mining_Patrichev</link>
+  </monster>
+  <monster>
+    <level>9</level>
+    <location>Tephra Cave</location>
+    <name>Wallslide Gwynry</name>
+    <link>https://xenoblade.fandom.com/wiki/Wallslide_Gwynry</link>
+  </monster>
+  <monster>
+    <level>10</level>
+    <location>Tephra Cave</location>
+    <name>Cellar Bugworm</name>
+    <link>https://xenoblade.fandom.com/wiki/Cellar_Bugworm</link>
+  </monster>
+  <monster>
+    <level>10</level>
+    <location>Tephra Cave</location>
+    <name>Solid Konev</name>
+    <link>https://xenoblade.fandom.com/wiki/Solid_Konev</link>
+  </monster>
+  <monster>
+    <level>11</level>
+    <location>Tephra Cave</location>
+    <name>Gluttonous Eugen</name>
+    <link>https://xenoblade.fandom.com/wiki/Gluttonous_Eugen</link>
+  </monster>
+  <monster>
+    <level>92</level>
+    <location>Tephra Cave</location>
+    <name>Plump Sprahda</name>
+    <link>https://xenoblade.fandom.com/wiki/Plump_Sprahda</link>
+  </monster>
+  <monster>
+    <level>93</level>
+    <location>Tephra Cave</location>
+    <name>Musical Vanflare</name>
+    <link>https://xenoblade.fandom.com/wiki/Musical_Vanflare</link>
+  </monster>
+  <monster>
+    <level>94</level>
+    <location>Tephra Cave</location>
+    <name>Judicious Bunnitzol</name>
+    <link>https://xenoblade.fandom.com/wiki/Judicious_Bunnitzol</link>
+  </monster>
+  <monster>
+    <level>95</level>
+    <location>Tephra Cave</location>
+    <name>Reckless Galdon</name>
+    <link>https://xenoblade.fandom.com/wiki/Reckless_Galdon</link>
+  </monster>
+  <monster>
+    <level>96</level>
+    <location>Tephra Cave</location>
+    <name>Protective Torquidon</name>
+    <link>https://xenoblade.fandom.com/wiki/Protective_Torquidon</link>
+  </monster>
+  <monster>
+    <level>97</level>
+    <location>Tephra Cave</location>
+    <name>Dazzling Tolosnia</name>
+    <link>https://xenoblade.fandom.com/wiki/Dazzling_Tolosnia</link>
+  </monster>
+  <monster>
+    <level>97</level>
+    <location>Tephra Cave</location>
+    <name>Erratic Goliante</name>
+    <link>https://xenoblade.fandom.com/wiki/Erratic_Goliante_(XC1)</link>
+  </monster>
+  <monster>
+    <level>98</level>
+    <location>Tephra Cave</location>
+    <name>Firework Geldesia</name>
+    <link>https://xenoblade.fandom.com/wiki/Firework_Geldesia</link>
+  </monster>
+  <monster>
+    <level>98</level>
+    <location>Tephra Cave</location>
+    <name>Reckless Zanden</name>
+    <link>https://xenoblade.fandom.com/wiki/Reckless_Zanden</link>
+  </monster>
+  <monster>
+    <level>15</level>
+    <location>Bionis' Leg</location>
+    <name>Sniper Paramecia</name>
+    <link>https://xenoblade.fandom.com/wiki/Sniper_Paramecia</link>
+  </monster>
+  <monster>
+    <level>15</level>
+    <location>Bionis' Leg</location>
+    <name>Trainer Harmelon</name>
+    <link>https://xenoblade.fandom.com/wiki/Trainer_Harmelon</link>
+  </monster>
+  <monster>
+    <level>16</level>
+    <location>Bionis' Leg</location>
+    <name>Vagrant Alfead</name>
+    <link>https://xenoblade.fandom.com/wiki/Vagrant_Alfead</link>
+  </monster>
+  <monster>
+    <level>16</level>
+    <location>Bionis' Leg</location>
+    <name>Violent Andante</name>
+    <link>https://xenoblade.fandom.com/wiki/Violent_Andante</link>
+  </monster>
+  <monster>
+    <level>17</level>
+    <location>Bionis' Leg</location>
+    <name>Napping Volfen</name>
+    <link>https://xenoblade.fandom.com/wiki/Napping_Volfen</link>
+  </monster>
+  <monster>
+    <level>17</level>
+    <location>Bionis' Leg</location>
+    <name>White Eduardo</name>
+    <link>https://xenoblade.fandom.com/wiki/White_Eduardo</link>
+  </monster>
+  <monster>
+    <level>18</level>
+    <location>Bionis' Leg</location>
+    <name>Night Cardamon</name>
+    <link>https://xenoblade.fandom.com/wiki/Night_Cardamon</link>
+  </monster>
+  <monster>
+    <level>32</level>
+    <location>Bionis' Leg</location>
+    <name>Clifftop Bayern</name>
+    <link>https://xenoblade.fandom.com/wiki/Clifftop_Bayern</link>
+  </monster>
+  <monster>
+    <level>75</level>
+    <location>Bionis' Leg</location>
+    <name>Mysterious Barnaby</name>
+    <link>https://xenoblade.fandom.com/wiki/Mysterious_Barnaby</link>
+  </monster>
+  <monster>
+    <level>76</level>
+    <location>Bionis' Leg</location>
+    <name>Field Altrich</name>
+    <link>https://xenoblade.fandom.com/wiki/Field_Altrich</link>
+  </monster>
+  <monster>
+    <level>78</level>
+    <location>Bionis' Leg</location>
+    <name>Canyon Valencia</name>
+    <link>https://xenoblade.fandom.com/wiki/Canyon_Valencia</link>
+  </monster>
+  <monster>
+    <level>81</level>
+    <location>Bionis' Leg</location>
+    <name>Territorial Rotbart</name>
+    <link>https://xenoblade.fandom.com/wiki/Territorial_Rotbart_(XC1)</link>
+  </monster>
+  <monster>
+    <level>82</level>
+    <location>Bionis' Leg</location>
+    <name>Armoured Rockwell</name>
+    <link>https://xenoblade.fandom.com/wiki/Armoured_Rockwell</link>
+  </monster>
+  <monster>
+    <level>90</level>
+    <location>Bionis' Leg</location>
+    <name>Immovable Gonzalez</name>
+    <link>https://xenoblade.fandom.com/wiki/Immovable_Gonzalez_(XC1)</link>
+  </monster>
+  <monster>
+    <level>19</level>
+    <location>Colony 6</location>
+    <name>Graceful Holand</name>
+    <link>https://xenoblade.fandom.com/wiki/Graceful_Holand</link>
+  </monster>
+  <monster>
+    <level>25</level>
+    <location>Colony 6</location>
+    <name>Drifter Jutard</name>
+    <link>https://xenoblade.fandom.com/wiki/Drifter_Jutard</link>
+  </monster>
+  <monster>
+    <level>20</level>
+    <location>Ether Mine</location>
+    <name>Dark Kisling</name>
+    <link>https://xenoblade.fandom.com/wiki/Dark_Kisling</link>
+  </monster>
+  <monster>
+    <level>22</level>
+    <location>Ether Mine</location>
+    <name>Vengeful Daulton</name>
+    <link>https://xenoblade.fandom.com/wiki/Vengeful_Daulton</link>
+  </monster>
+  <monster>
+    <level>29</level>
+    <location>Ether Mine</location>
+    <name>Elegant Marin</name>
+    <link>https://xenoblade.fandom.com/wiki/Elegant_Marin</link>
+  </monster>
+  <monster>
+    <level>25</level>
+    <location>Satorl Marsh</location>
+    <name>Stormy Widardun</name>
+    <link>https://xenoblade.fandom.com/wiki/Stormy_Widardun</link>
+  </monster>
+  <monster>
+    <level>26</level>
+    <location>Satorl Marsh</location>
+    <name>Cautious Balteid</name>
+    <link>https://xenoblade.fandom.com/wiki/Cautious_Balteid</link>
+  </monster>
+  <monster>
+    <level>27</level>
+    <location>Satorl Marsh</location>
+    <name>Amber Fischer</name>
+    <link>https://xenoblade.fandom.com/wiki/Amber_Fischer</link>
+  </monster>
+  <monster>
+    <level>27</level>
+    <location>Satorl Marsh</location>
+    <name>Tumultuous Felix</name>
+    <link>https://xenoblade.fandom.com/wiki/Tumultuous_Felix</link>
+  </monster>
+  <monster>
+    <level>28</level>
+    <location>Satorl Marsh</location>
+    <name>Aggressive Cornelius</name>
+    <link>https://xenoblade.fandom.com/wiki/Aggressive_Cornelius</link>
+  </monster>
+  <monster>
+    <level>28</level>
+    <location>Satorl Marsh</location>
+    <name>Swift Zektol</name>
+    <link>https://xenoblade.fandom.com/wiki/Swift_Zektol</link>
+  </monster>
+  <monster>
+    <level>30</level>
+    <location>Satorl Marsh</location>
+    <name>Sunlight Schvaik</name>
+    <link>https://xenoblade.fandom.com/wiki/Sunlight_Schvaik</link>
+  </monster>
+  <monster>
+    <level>31</level>
+    <location>Satorl Marsh</location>
+    <name>Reckless Godwin</name>
+    <link>https://xenoblade.fandom.com/wiki/Reckless_Godwin</link>
+  </monster>
+  <monster>
+    <level>83</level>
+    <location>Satorl Marsh</location>
+    <name>Veteran Yozel</name>
+    <link>https://xenoblade.fandom.com/wiki/Veteran_Yozel</link>
+  </monster>
+  <monster>
+    <level>85</level>
+    <location>Satorl Marsh</location>
+    <name>Indomitable Daulton</name>
+    <link>https://xenoblade.fandom.com/wiki/Indomitable_Daulton</link>
+  </monster>
+  <monster>
+    <level>91</level>
+    <location>Satorl Marsh</location>
+    <name>Eternal Palsadia</name>
+    <link>https://xenoblade.fandom.com/wiki/Eternal_Palsadia</link>
+  </monster>
+  <monster>
+    <level>108</level>
+    <location>Satorl Marsh</location>
+    <name>Despotic Arsene</name>
+    <link>https://xenoblade.fandom.com/wiki/Despotic_Arsene</link>
+  </monster>
+  <monster>
+    <level>72</level>
+    <location>Bionis' Interior</location>
+    <name>Active Impulso</name>
+    <link>https://xenoblade.fandom.com/wiki/Active_Impulso</link>
+  </monster>
+  <monster>
+    <level>72</level>
+    <location>Bionis' Interior</location>
+    <name>Mystical Klesida</name>
+    <link>https://xenoblade.fandom.com/wiki/Mystical_Klesida</link>
+  </monster>
+  <monster>
+    <level>73</level>
+    <location>Bionis' Interior</location>
+    <name>Victorious Gross</name>
+    <link>https://xenoblade.fandom.com/wiki/Victorious_Gross</link>
+  </monster>
+  <monster>
+    <level>74</level>
+    <location>Bionis' Interior</location>
+    <name>Clandestine Apety</name>
+    <link>https://xenoblade.fandom.com/wiki/Clandestine_Apety</link>
+  </monster>
+  <monster>
+    <level>75</level>
+    <location>Bionis' Interior</location>
+    <name>Officer Robusto</name>
+    <link>https://xenoblade.fandom.com/wiki/Officer_Robusto</link>
+  </monster>
+  <monster>
+    <level>75</level>
+    <location>Bionis' Interior</location>
+    <name>Vivid Anstan</name>
+    <link>https://xenoblade.fandom.com/wiki/Vivid_Anstan</link>
+  </monster>
+  <monster>
+    <level>76</level>
+    <location>Bionis' Interior</location>
+    <name>Ghostly Mahatos</name>
+    <link>https://xenoblade.fandom.com/wiki/Ghostly_Mahatos</link>
+  </monster>
+  <monster>
+    <level>77</level>
+    <location>Bionis' Interior</location>
+    <name>Dark King Barbarus</name>
+    <link>https://xenoblade.fandom.com/wiki/Dark_King_Barbarus</link>
+  </monster>
+  <monster>
+    <level>33</level>
+    <location>Makna Forest</location>
+    <name>Agile Albatro</name>
+    <link>https://xenoblade.fandom.com/wiki/Agile_Albatro</link>
+  </monster>
+  <monster>
+    <level>33</level>
+    <location>Makna Forest</location>
+    <name>Shimmering Forte</name>
+    <link>https://xenoblade.fandom.com/wiki/Shimmering_Forte</link>
+  </monster>
+  <monster>
+    <level>34</level>
+    <location>Makna Forest</location>
+    <name>Elder Gragus</name>
+    <link>https://xenoblade.fandom.com/wiki/Elder_Gragus</link>
+  </monster>
+  <monster>
+    <level>34</level>
+    <location>Makna Forest</location>
+    <name>Lazy Bluco</name>
+    <link>https://xenoblade.fandom.com/wiki/Lazy_Bluco</link>
+  </monster>
+  <monster>
+    <level>35</level>
+    <location>Makna Forest</location>
+    <name>Obsessive Galgaron</name>
+    <link>https://xenoblade.fandom.com/wiki/Obsessive_Galgaron</link>
+  </monster>
+  <monster>
+    <level>37</level>
+    <location>Makna Forest</location>
+    <name>Breezy Zolos</name>
+    <link>https://xenoblade.fandom.com/wiki/Breezy_Zolos</link>
+  </monster>
+  <monster>
+    <level>46</level>
+    <location>Makna Forest</location>
+    <name>Brutal Gravar</name>
+    <link>https://xenoblade.fandom.com/wiki/Brutal_Gravar</link>
+  </monster>
+  <monster>
+    <level>96</level>
+    <location>Makna Forest</location>
+    <name>Unreliable Rezno</name>
+    <link>https://xenoblade.fandom.com/wiki/Unreliable_Rezno</link>
+  </monster>
+  <monster>
+    <level>98</level>
+    <location>Makna Forest</location>
+    <name>Illustrious Golteus</name>
+    <link>https://xenoblade.fandom.com/wiki/Illustrious_Golteus</link>
+  </monster>
+  <monster>
+    <level>99</level>
+    <location>Makna Forest</location>
+    <name>Magnificent Digalus</name>
+    <link>https://xenoblade.fandom.com/wiki/Magnificent_Digalus</link>
+  </monster>
+  <monster>
+    <level>78</level>
+    <location>Frontier Village</location>
+    <name>Frenzied Bana</name>
+    <link>https://xenoblade.fandom.com/wiki/Frenzied_Bana</link>
+  </monster>
+  <monster>
+    <level>36</level>
+    <location>Eryth Sea</location>
+    <name>Turbulent Belmo</name>
+    <link>https://xenoblade.fandom.com/wiki/Turbulent_Belmo</link>
+  </monster>
+  <monster>
+    <level>38</level>
+    <location>Eryth Sea</location>
+    <name>Flabbergasted Jerome</name>
+    <link>https://xenoblade.fandom.com/wiki/Flabbergasted_Jerome</link>
+  </monster>
+  <monster>
+    <level>38</level>
+    <location>Eryth Sea</location>
+    <name>Peeling Kircheis</name>
+    <link>https://xenoblade.fandom.com/wiki/Peeling_Kircheis</link>
+  </monster>
+  <monster>
+    <level>39</level>
+    <location>Eryth Sea</location>
+    <name>Proper Bandaz</name>
+    <link>https://xenoblade.fandom.com/wiki/Proper_Bandaz</link>
+  </monster>
+  <monster>
+    <level>39</level>
+    <location>Eryth Sea</location>
+    <name>Tempestuous Edegia</name>
+    <link>https://xenoblade.fandom.com/wiki/Tempestuous_Edegia</link>
+  </monster>
+  <monster>
+    <level>40</level>
+    <location>Eryth Sea</location>
+    <name>Subterranean Zomar</name>
+    <link>https://xenoblade.fandom.com/wiki/Subterranean_Zomar</link>
+  </monster>
+  <monster>
+    <level>41</level>
+    <location>Eryth Sea</location>
+    <name>Cumulus Danaemos</name>
+    <link>https://xenoblade.fandom.com/wiki/Cumulus_Danaemos</link>
+  </monster>
+  <monster>
+    <level>42</level>
+    <location>Eryth Sea</location>
+    <name>Funeral Gozra</name>
+    <link>https://xenoblade.fandom.com/wiki/Funeral_Gozra</link>
+  </monster>
+  <monster>
+    <level>44</level>
+    <location>Eryth Sea</location>
+    <name>Lightspeed Sonid</name>
+    <link>https://xenoblade.fandom.com/wiki/Lightspeed_Sonid</link>
+  </monster>
+  <monster>
+    <level>87</level>
+    <location>Eryth Sea</location>
+    <name>Stormy Belagon</name>
+    <link>https://xenoblade.fandom.com/wiki/Stormy_Belagon</link>
+  </monster>
+  <monster>
+    <level>88</level>
+    <location>Eryth Sea</location>
+    <name>Bizarre Ragoel</name>
+    <link>https://xenoblade.fandom.com/wiki/Bizarre_Ragoel</link>
+  </monster>
+  <monster>
+    <level>89</level>
+    <location>Eryth Sea</location>
+    <name>Sacred Zagamei</name>
+    <link>https://xenoblade.fandom.com/wiki/Sacred_Zagamei</link>
+  </monster>
+  <monster>
+    <level>92</level>
+    <location>Eryth Sea</location>
+    <name>Clamorous Dablon</name>
+    <link>https://xenoblade.fandom.com/wiki/Clamorous_Dablon</link>
+  </monster>
+  <monster>
+    <level>93</level>
+    <location>Eryth Sea</location>
+    <name>Deadly Medorlo</name>
+    <link>https://xenoblade.fandom.com/wiki/Deadly_Medorlo</link>
+  </monster>
+  <monster>
+    <level>38</level>
+    <location>High Entia Tomb</location>
+    <name>Calm Anzabi</name>
+    <link>https://xenoblade.fandom.com/wiki/Calm_Anzabi</link>
+  </monster>
+  <monster>
+    <level>96</level>
+    <location>High Entia Tomb</location>
+    <name>Furious Jozan</name>
+    <link>https://xenoblade.fandom.com/wiki/Furious_Jozan</link>
+  </monster>
+  <monster>
+    <level>45</level>
+    <location>Valak Mountain</location>
+    <name>Conflagrant Raxeal</name>
+    <link>https://xenoblade.fandom.com/wiki/Conflagrant_Raxeal</link>
+  </monster>
+  <monster>
+    <level>45</level>
+    <location>Valak Mountain</location>
+    <name>Glorious Buer</name>
+    <link>https://xenoblade.fandom.com/wiki/Glorious_Buer</link>
+  </monster>
+  <monster>
+    <level>46</level>
+    <location>Valak Mountain</location>
+    <name>Moonlight Paimon</name>
+    <link>https://xenoblade.fandom.com/wiki/Moonlight_Paimon</link>
+  </monster>
+  <monster>
+    <level>46</level>
+    <location>Valak Mountain</location>
+    <name>Vague Barbas</name>
+    <link>https://xenoblade.fandom.com/wiki/Vague_Barbas</link>
+  </monster>
+  <monster>
+    <level>47</level>
+    <location>Valak Mountain</location>
+    <name>Agile Barbatos</name>
+    <link>https://xenoblade.fandom.com/wiki/Agile_Barbatos</link>
+  </monster>
+  <monster>
+    <level>47</level>
+    <location>Valak Mountain</location>
+    <name>Barbaric Sitri</name>
+    <link>https://xenoblade.fandom.com/wiki/Barbaric_Sitri</link>
+  </monster>
+  <monster>
+    <level>48</level>
+    <location>Valak Mountain</location>
+    <name>Banquet Vassago</name>
+    <link>https://xenoblade.fandom.com/wiki/Banquet_Vassago</link>
+  </monster>
+  <monster>
+    <level>49</level>
+    <location>Valak Mountain</location>
+    <name>Hidden Gamigin</name>
+    <link>https://xenoblade.fandom.com/wiki/Hidden_Gamigin</link>
+  </monster>
+  <monster>
+    <level>50</level>
+    <location>Valak Mountain</location>
+    <name>North Star Gusion</name>
+    <link>https://xenoblade.fandom.com/wiki/North_Star_Gusion</link>
+  </monster>
+  <monster>
+    <level>97</level>
+    <location>Valak Mountain</location>
+    <name>Exposure Wolfol</name>
+    <link>https://xenoblade.fandom.com/wiki/Exposure_Wolfol</link>
+  </monster>
+  <monster>
+    <level>98</level>
+    <location>Valak Mountain</location>
+    <name>Wandering Amon</name>
+    <link>https://xenoblade.fandom.com/wiki/Wandering_Amon</link>
+  </monster>
+  <monster>
+    <level>100</level>
+    <location>Valak Mountain</location>
+    <name>Final Marcus</name>
+    <link>https://xenoblade.fandom.com/wiki/Final_Marcus</link>
+  </monster>
+  <monster>
+    <level>114</level>
+    <location>Valak Mountain</location>
+    <name>Blizzard Belgazas</name>
+    <link>https://xenoblade.fandom.com/wiki/Blizzard_Belgazas</link>
+  </monster>
+  <monster>
+    <level>120</level>
+    <location>Valak Mountain</location>
+    <name>Avalanche Abaasy</name>
+    <link>https://xenoblade.fandom.com/wiki/Avalanche_Abaasy</link>
+  </monster>
+  <monster>
+    <level>49</level>
+    <location>Sword Valley</location>
+    <name>Prudent Purson</name>
+    <link>https://xenoblade.fandom.com/wiki/Prudent_Purson</link>
+  </monster>
+  <monster>
+    <level>50</level>
+    <location>Sword Valley</location>
+    <name>Defective Ipos</name>
+    <link>https://xenoblade.fandom.com/wiki/Defective_Ipos</link>
+  </monster>
+  <monster>
+    <level>50</level>
+    <location>Sword Valley</location>
+    <name>Tranquil Morax</name>
+    <link>https://xenoblade.fandom.com/wiki/Tranquil_Morax</link>
+  </monster>
+  <monster>
+    <level>51</level>
+    <location>Sword Valley</location>
+    <name>Benevolent Aim</name>
+    <link>https://xenoblade.fandom.com/wiki/Benevolent_Aim</link>
+  </monster>
+  <monster>
+    <level>51</level>
+    <location>Sword Valley</location>
+    <name>Fate Labolas</name>
+    <link>https://xenoblade.fandom.com/wiki/Fate_Labolas</link>
+  </monster>
+  <monster>
+    <level>53</level>
+    <location>Sword Valley</location>
+    <name>Kamikaze Bune</name>
+    <link>https://xenoblade.fandom.com/wiki/Kamikaze_Bune</link>
+  </monster>
+  <monster>
+    <level>55</level>
+    <location>Sword Valley</location>
+    <name>Lightning Ronove</name>
+    <link>https://xenoblade.fandom.com/wiki/Lightning_Ronove</link>
+  </monster>
+  <monster>
+    <level>57</level>
+    <location>Sword Valley</location>
+    <name>Mischievious Naberius</name>
+    <link>https://xenoblade.fandom.com/wiki/Mischievious_Naberius</link>
+  </monster>
+  <monster>
+    <level>52</level>
+    <location>Galahad Fortress</location>
+    <name>Glacier Acon</name>
+    <link>https://xenoblade.fandom.com/wiki/Glacier_Acon</link>
+  </monster>
+  <monster>
+    <level>53</level>
+    <location>Galahad Fortress</location>
+    <name>Precious Retrato</name>
+    <link>https://xenoblade.fandom.com/wiki/Precious_Retrato</link>
+  </monster>
+  <monster>
+    <level>55</level>
+    <location>Galahad Fortress</location>
+    <name>Glorious Jurom</name>
+    <link>https://xenoblade.fandom.com/wiki/Glorious_Jurom</link>
+  </monster>
+  <monster>
+    <level>54</level>
+    <location>Fallen Arm</location>
+    <name>Evil Bathin</name>
+    <link>https://xenoblade.fandom.com/wiki/Evil_Bathin</link>
+  </monster>
+  <monster>
+    <level>56</level>
+    <location>Fallen Arm</location>
+    <name>Aged Leraje</name>
+    <link>https://xenoblade.fandom.com/wiki/Aged_Leraje</link>
+  </monster>
+  <monster>
+    <level>56</level>
+    <location>Fallen Arm</location>
+    <name>Prosperous Zepar</name>
+    <link>https://xenoblade.fandom.com/wiki/Prosperous_Zepar</link>
+  </monster>
+  <monster>
+    <level>57</level>
+    <location>Fallen Arm</location>
+    <name>Affluent Beleth</name>
+    <link>https://xenoblade.fandom.com/wiki/Affluent_Beleth</link>
+  </monster>
+  <monster>
+    <level>58</level>
+    <location>Fallen Arm</location>
+    <name>Splendid Botis</name>
+    <link>https://xenoblade.fandom.com/wiki/Splendid_Botis</link>
+  </monster>
+  <monster>
+    <level>80</level>
+    <location>Fallen Arm</location>
+    <name>Powerful Eligos</name>
+    <link>https://xenoblade.fandom.com/wiki/Powerful_Eligos</link>
+  </monster>
+  <monster>
+    <level>95</level>
+    <location>Fallen Arm</location>
+    <name>Wicked Sallos</name>
+    <link>https://xenoblade.fandom.com/wiki/Wicked_Sallos</link>
+  </monster>
+  <monster>
+    <level>105</level>
+    <location>Fallen Arm</location>
+    <name>Ancient Daedala</name>
+    <link>https://xenoblade.fandom.com/wiki/Ancient_Daedala</link>
+  </monster>
+  <monster>
+    <level>57</level>
+    <location>Mechonis Field</location>
+    <name>Amorous Arca</name>
+    <link>https://xenoblade.fandom.com/wiki/Amorous_Arca</link>
+  </monster>
+  <monster>
+    <level>58</level>
+    <location>Mechonis Field</location>
+    <name>Infernal Crocell</name>
+    <link>https://xenoblade.fandom.com/wiki/Infernal_Crocell</link>
+  </monster>
+  <monster>
+    <level>59</level>
+    <location>Mechonis Field</location>
+    <name>Destroyer Salvacion</name>
+    <link>https://xenoblade.fandom.com/wiki/Destroyer_Salvacion</link>
+  </monster>
+  <monster>
+    <level>60</level>
+    <location>Mechonis Field</location>
+    <name>Revolutionary Bifrons</name>
+    <link>https://xenoblade.fandom.com/wiki/Revolutionary_Bifrons</link>
+  </monster>
+  <monster>
+    <level>61</level>
+    <location>Mechonis Field</location>
+    <name>Commander Oracion</name>
+    <link>https://xenoblade.fandom.com/wiki/Commander_Oracion</link>
+  </monster>
+  <monster>
+    <level>58</level>
+    <location>Central Factory</location>
+    <name>Mild Florence</name>
+    <link>https://xenoblade.fandom.com/wiki/Mild_Florence</link>
+  </monster>
+  <monster>
+    <level>59</level>
+    <location>Central Factory</location>
+    <name>Faithful Lancelot</name>
+    <link>https://xenoblade.fandom.com/wiki/Faithful_Lancelot</link>
+  </monster>
+  <monster>
+    <level>60</level>
+    <location>Central Factory</location>
+    <name>Beautiful Vagul</name>
+    <link>https://xenoblade.fandom.com/wiki/Beautiful_Vagul</link>
+  </monster>
+  <monster>
+    <level>61</level>
+    <location>Central Factory</location>
+    <name>Synchronised Gaheris</name>
+    <link>https://xenoblade.fandom.com/wiki/Synchronised_Gaheris</link>
+  </monster>
+  <monster>
+    <level>62</level>
+    <location>Central Factory</location>
+    <name>Balanced Palamedes</name>
+    <link>https://xenoblade.fandom.com/wiki/Balanced_Palamedes</link>
+  </monster>
+  <monster>
+    <level>63</level>
+    <location>Central Factory</location>
+    <name>Sinful Lamorak</name>
+    <link>https://xenoblade.fandom.com/wiki/Sinful_Lamorak</link>
+  </monster>
+  <monster>
+    <level>64</level>
+    <location>Central Factory</location>
+    <name>Venerable Focalor</name>
+    <link>https://xenoblade.fandom.com/wiki/Venerable_Focalor</link>
+  </monster>
+  <monster>
+    <level>65</level>
+    <location>Central Factory</location>
+    <name>Temporal Gawain</name>
+    <link>https://xenoblade.fandom.com/wiki/Temporal_Gawain</link>
+  </monster>
+  <monster>
+    <level>70</level>
+    <location>Central Factory</location>
+    <name>Magestic Mordred</name>
+    <link>https://xenoblade.fandom.com/wiki/Magestic_Mordred</link>
+  </monster>
+  <monster>
+    <level>63</level>
+    <location>Agniratha</location>
+    <name>Vagabond Allocer</name>
+    <link>https://xenoblade.fandom.com/wiki/Vagabond_Allocer</link>
+  </monster>
+  <monster>
+    <level>64</level>
+    <location>Agniratha</location>
+    <name>Destructive Bors</name>
+    <link>https://xenoblade.fandom.com/wiki/Destructive_Bors</link>
+  </monster>
+  <monster>
+    <level>64</level>
+    <location>Agniratha</location>
+    <name>Experienced Tristan</name>
+    <link>https://xenoblade.fandom.com/wiki/Experienced_Tristan</link>
+  </monster>
+  <monster>
+    <level>65</level>
+    <location>Agniratha</location>
+    <name>Meditative Varla</name>
+    <link>https://xenoblade.fandom.com/wiki/Meditative_Varla</link>
+  </monster>
+  <monster>
+    <level>65</level>
+    <location>Agniratha</location>
+    <name>Soothed Aglovale</name>
+    <link>https://xenoblade.fandom.com/wiki/Soothed_Aglovale</link>
+  </monster>
+  <monster>
+    <level>66</level>
+    <location>Agniratha</location>
+    <name>Sentimental Flamral</name>
+    <link>https://xenoblade.fandom.com/wiki/Sentimental_Flamral</link>
+  </monster>
+  <monster>
+    <level>67</level>
+    <location>Agniratha</location>
+    <name>Wrathful Orobas</name>
+    <link>https://xenoblade.fandom.com/wiki/Wrathful_Orobas</link>
+  </monster>
+  <monster>
+    <level>68</level>
+    <location>Agniratha</location>
+    <name>Wise Gremory</name>
+    <link>https://xenoblade.fandom.com/wiki/Wise_Gremory</link>
+  </monster>
+  <monster>
+    <level>75</level>
+    <location>Prison Island</location>
+    <name>Ageless Moabit</name>
+    <link>https://xenoblade.fandom.com/wiki/Ageless_Moabit</link>
+  </monster>
+  <monster>
+    <level>76</level>
+    <location>Prison Island</location>
+    <name>Inferno Heinrich</name>
+    <link>https://xenoblade.fandom.com/wiki/Inferno_Heinrich</link>
+  </monster>
+  <monster>
+    <level>76</level>
+    <location>Prison Island</location>
+    <name>Serene Imlaly</name>
+    <link>https://xenoblade.fandom.com/wiki/Serene_Imlaly</link>
+  </monster>
+  <monster>
+    <level>77</level>
+    <location>Prison Island</location>
+    <name>Abnormal Clone Barg</name>
+    <link>https://xenoblade.fandom.com/wiki/Abnormal_Clone_Barg</link>
+  </monster>
+  <monster>
+    <level>77</level>
+    <location>Prison Island</location>
+    <name>Cold Ageshu</name>
+    <link>https://xenoblade.fandom.com/wiki/Cold_Ageshu</link>
+  </monster>
+  <monster>
+    <level>77</level>
+    <location>Prison Island</location>
+    <name>Majestic Clone Barg</name>
+    <link>https://xenoblade.fandom.com/wiki/Majestic_Clone_Barg</link>
+  </monster>
+  <monster>
+    <level>77</level>
+    <location>Prison Island</location>
+    <name>Masterful Gigapur</name>
+    <link>https://xenoblade.fandom.com/wiki/Masterful_Gigapur</link>
+  </monster>
+  <monster>
+    <level>78</level>
+    <location>Prison Island</location>
+    <name>Fiendish Auburn</name>
+    <link>https://xenoblade.fandom.com/wiki/Fiendish_Auburn</link>
+  </monster>
+</monsters>
